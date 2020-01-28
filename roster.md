@@ -2,5 +2,5 @@
 
 * Kevin Buffardi (instructor)
 * Gopal Raigoni (student)
-* Sujeet Hiremath (Student)
-
+* Shelley Wong (student)
+* Sujeet Hiremath (student)
