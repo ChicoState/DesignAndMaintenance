@@ -4,5 +4,5 @@
 * Devam Sharma (student)
 * Gopal Raigoni (student)
 * Padam Rana (Student)
-* Piraeepan Nagarajan (Student)
+* Piradeepan Nagarajan (Student)
 * Shelley Wong (student)
