@@ -1,6 +1,9 @@
 # Roster
 
 * Kevin Buffardi (instructor)
-* Nomaan Shaikh
+* Devam Sharma (student)
 * Gopal Raigoni (student)
+* Nomaan Shaikh
+* Padam Rana (Student)
 * Shelley Wong (student)
+* Sujeet Hiremath (student)
