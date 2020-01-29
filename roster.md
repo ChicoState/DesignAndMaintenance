@@ -6,3 +6,4 @@
 * Padam Rana (Student)
 * Piradeepan Nagarajan (Student)
 * Shelley Wong (student)
+* Sujeet Hiremath (student)
