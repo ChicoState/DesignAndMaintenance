@@ -7,6 +7,7 @@
 * Gopal Raigoni (student)
 * Nomaan Shaikh
 * Padam Rana (Student)
+* Piradeepan Nagarajan (Student)
 * Pratiksha Kapse(Student)
 * Shelley Wong (student)
 * Subhed Chavan (student)
