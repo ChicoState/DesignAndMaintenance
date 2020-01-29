@@ -1,6 +1,7 @@
 # Roster
 
 * Kevin Buffardi (instructor)
+* Chetan Sai Kurra (student)
 * Deepali Patil (student)
 * Devam Sharma (student)
 * Diksha Pande (student)
