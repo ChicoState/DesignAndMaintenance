@@ -1,4 +1,4 @@
-#Intellectual Integrity Policy
+# Intellectual Integrity Policy
 
 We highly value learning and hard work. Therefore, in accordance with department policy, this class has a strict policy for any instances of cheating, which includes plagiarism, unauthorized collaboration, or otherwise misrepresenting someone else's thoughts as your own.
 
