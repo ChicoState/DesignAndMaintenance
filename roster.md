@@ -6,6 +6,7 @@
 * Devam Sharma (student)
 * Diksha Pande (student)
 * Gopal Raigoni (student)
+* Jayesh Sathe (student)
 * Nomaan Shaikh
 * Padam Rana (Student)
 * Piradeepan Nagarajan (Student)
