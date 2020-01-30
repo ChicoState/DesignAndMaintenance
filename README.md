@@ -2,3 +2,4 @@
 Documentation for CSCI 630 at CSU Chico
 
 [Roster](roster.md)
+[Roster](Schedule.txt)
