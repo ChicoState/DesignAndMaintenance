@@ -2,4 +2,5 @@
 Documentation for CSCI 630 at CSU Chico
 
 [Roster](roster.md)
-[Roster](Schedule.txt)
+[Intellectual Integrity Policy](Integrity_Policy.md)
+[Course Schedule](Schedule.md)
