@@ -7,5 +7,5 @@ Documentation for CSCI 630 at CSU Chico
 [Required Materials](requiredMaterials.md) <br>
 [Grades](grades.md) <br>
 [Portfolio](portfolio/README.md)<br>
-[Course Schedule](Schedule.md)
+[Course Schedule](Schedule.md) <br>
 
