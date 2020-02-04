@@ -3,7 +3,6 @@ Documentation for CSCI 630 at CSU Chico
 
 [Instructor](Instructor.md)<br>
 [Roster](roster.md) <br>
-[Intellectual Integrity Policy](Integrity_Policy.md) <br>
 [Course Overview](CourseOverview.md) <br>
 [Intellectual Integrity Policy](Integrity_Policy.md)<br>
 [Learning Outcome](learning-outcome.md)<br>
@@ -15,4 +14,3 @@ Documentation for CSCI 630 at CSU Chico
 [Accomodations](Accomodations.md)<br>
 [Design Patterns](design-patterns/README.md)<br>
 [Grades](grades.md) <br>
-
