@@ -1,17 +1,19 @@
-# Roster
+# Spring 2020 Roster
 
-* Kevin Buffardi (instructor)
-* Chetan Sai Kurra (student)
-* Deepali Patil (student)
-* Devam Sharma (student)
-* Diksha Pande (student)
-* Gopal Raigoni (student)
-* Jayesh Sathe (student)
+## Instructor
+* Kevin Buffardi
+## Student
+* Chetan Sai Kurra
+* Deepali Patil 
+* Devam Sharma 
+* Diksha Pande 
+* Gopal Raigoni 
+* Jayesh Sathe 
 * Nomaan Shaikh
-* Padam Rana (Student)
-* Piradeepan Nagarajan (Student)
-* Pratiksha Kapse(Student)
-* Shelley Wong (student)
-* Subhed Chavan (student)
-* Sujeet Hiremath (student)
-* Zaiba Fathima (student)
+* Padam Rana 
+* Piradeepan Nagarajan 
+* Pratiksha Kapse
+* Shelley Wong 
+* Subhed Chavan 
+* Sujeet Hiremath 
+* Zaiba Fathima 
