@@ -1,6 +1,6 @@
  # Overview
 
-Students conduct a study of designing and maintaining complex software. The course builds upon fundamental software engineering skills with an emphasis on:
+Students conduct a study of designing and maintaining complex software. The course builds upon fundamental software engineering skills with an emphasis on :
 
 * object-oriented software design patterns,
 * anti-patterns,
