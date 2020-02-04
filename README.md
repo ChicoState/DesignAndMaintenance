@@ -1,6 +1,8 @@
 # Software Design And Maintenance
 Documentation for CSCI 630 at CSU Chico
 
+[Instructor](Instructor.md)<br>
 [Roster](roster.md) <br>
 [Intellectual Integrity Policy](Integrity_Policy.md) <br>
-[Accomodations](Accomodations.md)
+[Required Materials](requiredMaterials.md)<br>
+[Accomodations](Accomodations.md)<br>
