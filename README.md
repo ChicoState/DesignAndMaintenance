@@ -10,3 +10,4 @@ Documentation for CSCI 630 at CSU Chico
 [Portfolio](portfolio/README.md)<br>
 [Course Schedule](Schedule.md)<br>
 [Accomodations](Accomodations.md)<br>
+[Design Patterns](design-patterns/README.md)<br>
