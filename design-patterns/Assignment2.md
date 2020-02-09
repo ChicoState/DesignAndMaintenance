@@ -12,7 +12,7 @@ And only when there is a change needed in that specific task or functionality sh
 
 # Example :
 
-Intial Employee Class:
+# Intial Employee Class:
 
 class Employee {
 int empId;
@@ -48,7 +48,7 @@ public abstract class BaseDAO {
 public class EmployeeFormat extends PersonFormat {
 	convertDataToPDF();
 }
-public abstract PersonFormat {
+public abstract class PersonFormat {
 	convertDataToFile();
 }
 
