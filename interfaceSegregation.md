@@ -30,3 +30,10 @@ An interface should only include the methods that are directly related to the gi
 * When interfaces are more connected, it could result in the need for updates to interfaces unrelated to the initial change.
 * Small and client-specific interfaces are easier to use and maintain.
 * Instead of having polluted interfaces with dummy methods, we can split it into small interfaces and have a flexible design.
+
+## References
+
+* [Wikipedia](https://en.wikipedia.org/wiki/Interface_segregation_principle)
+* [Stackify](https://stackify.com/interface-segregation-principle/)
+* [JRebel](https://www.jrebel.com/blog/solid-principles-in-java)
+* [edureka!](https://www.edureka.co/blog/solid-principles-in-java/)
