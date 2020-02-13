@@ -16,7 +16,7 @@
 [Roster](roster.md) 
 
 ## Policies
-[Late_Work_Policy](Late_Work_Policy.md) describes the impacts of turning in your assignments late.
+[Late_Work_Policy](Late%20Work%20Policy.md) describes the impacts of turning in your assignments late.
 
 [Intellectual Integrity Policy](Integrity_Policy.md) outlines how to demonstrate your intellectual worth and the policies regarding cheating (and its repercussions)
 
