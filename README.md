@@ -1,5 +1,4 @@
 # Software Design And Maintenance
-
 [Course Overview](CourseOverview.md) and description.
 
 [Learning Outcomes](learning-outcome.md) that are expected from this class
@@ -33,3 +32,4 @@
 [Portfolio](portfolio/README.md) contains individuals' maintenance portfolios
 
 [Design Patterns](design-patterns/README.md)
+
