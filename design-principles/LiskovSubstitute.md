@@ -1,4 +1,4 @@
-<h1>Liskov Substitution Principle: Zaiba, Nomaan and Sujeet<br>
+<h1>Liskov Substitution Principle<br>
 
 
 
