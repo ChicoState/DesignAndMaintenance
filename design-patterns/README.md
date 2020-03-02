@@ -1,7 +1,6 @@
 # Design Pattern Examples
 
-| **Design Pattern** | **Category** | **Examples** |   |   |   |   |   |
-|                    |   | C++ | C# | Java | JavaScript | Python | Ruby |
+| Design Pattern | Category | C++ | C# | Java | JavaScript | Python | Ruby |
 |---|---|---|---|---|---|---|---|
 | Abstract Factory | Creational |   |   |   |   |   |   |
 | Adapter | Structural |   |   |   |   |   |   |
