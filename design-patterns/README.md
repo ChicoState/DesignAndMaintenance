@@ -20,7 +20,7 @@
 | Observer | Behavioral |   |   |   |   |   |   |
 | Prototype | Creational |   |   |   |   |   |   |
 | Proxy | Structural |   |   |   |   |   |   |
-| Singleton | Creational |   |   |   |   |   |   |
+| Singleton | Creational | [Game Records](singleton-cpp/) |   |   |   |   |   |
 | State | Behavioral |   |   |   |   |   |   |
 | Strategy | Behavioral |   |   |   |   |   |   |
 | Template Method | Behavioral |   |   |   |   |   |   |
