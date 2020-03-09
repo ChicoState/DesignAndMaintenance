@@ -9,7 +9,7 @@
 | Chain of Responsibility | Behavioral |   |   |   |   |   |   |
 | Command | Behavioral |   |   |   |   |   |   |
 | Composite | Structural |   |   |   |   |   |   |
-| Dectorator | Structural |   |   |   |   |   |   |
+| Decorator | Structural |   |   |   |   |   |   |
 | Facade | Structural |   |   |   |   |   |   |
 | Factory Method | Creational |   |   |   |   |   |   |
 | Flyweight | Structural |   |   |   |   |   |   |
