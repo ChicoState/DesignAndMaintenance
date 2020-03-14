@@ -1,4 +1,5 @@
 // compile: javac Inventory.java
+//  - creates Inventory.class (executable byte code)
 // run: java Inventory
 public final class Inventory {
 
@@ -13,6 +14,7 @@ public final class Inventory {
   public static Inventory get_instance() {
     if(_instance == null){
       _instance = new Inventory();
+      System.out.println("New instance of inventory created");
     }
     return _instance;
   }
@@ -32,6 +34,7 @@ public final class Inventory {
     return _count;
   }
 
+  // Client can get the Inventory instance and run, or print stack trace
   public static void main(String[] args) {
     try {
       Inventory inventory = Inventory.get_instance();
@@ -42,6 +45,7 @@ public final class Inventory {
     }
   }
 
+  // Run quick test of Inventory class member functions
   public void run (String[] args) throws Exception{
     System.out.println("Current Number of Items in Inventory:");
     System.out.println(Inventory.get_instance().get_inventory());
