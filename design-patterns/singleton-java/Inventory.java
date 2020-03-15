@@ -1,6 +1,4 @@
-// compile: javac Inventory.java
-//  - creates Inventory.class (executable byte code)
-// run: java Inventory
+// Inventory class: example of Singleton design pattern
 public final class Inventory {
 
   private static Inventory _instance;
@@ -32,33 +30,5 @@ public final class Inventory {
   // Return the number of widgets currently in inventory
   public int get_inventory() {
     return _count;
-  }
-
-  // Client can get the Inventory instance and run, or print stack trace
-  public static void main(String[] args) {
-    try {
-      Inventory inventory = Inventory.get_instance();
-      inventory.run(args);
-    }
-    catch (Exception e) {
-      e.printStackTrace();
-    }
-  }
-
-  // Run quick test of Inventory class member functions
-  public void run (String[] args) throws Exception {
-    Inventory inst = Inventory.get_instance();
-    
-    System.out.println("Current Number of Items in Inventory:");
-    System.out.println(inst.get_inventory());
-
-    inst.add_widget();
-    inst.add_widget();
-    System.out.println("Current Number of Items in Inventory:");
-    System.out.println(inst.get_inventory());
-
-    inst.remove_widget();
-    System.out.println("Current Number of Items in Inventory:");
-    System.out.println(inst.get_inventory());
   }
 }
