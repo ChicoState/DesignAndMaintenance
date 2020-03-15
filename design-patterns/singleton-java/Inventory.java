@@ -46,7 +46,7 @@ public final class Inventory {
   }
 
   // Run quick test of Inventory class member functions
-  public void run (String[] args) throws Exception{
+  public void run (String[] args) throws Exception {
     System.out.println("Current Number of Items in Inventory:");
     System.out.println(Inventory.get_instance().get_inventory());
 
