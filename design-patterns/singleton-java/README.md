@@ -21,10 +21,7 @@ $ javac Inventory.java
 $ javac driver.java
 $ java driver
 New instance of inventory created
-Current Number of Items in Inventory:  // after instantiation
-0
-Current Number of Items in Inventory:  // after widgets have been added
-2
-Current Number of Items in Inventory:  // after one widget has been removed
-1
+Current Number of Items in Inventory: 0  // after instantiation
+Current Number of Items in Inventory: 2  // after widgets have been added
+Current Number of Items in Inventory: 1  // after one widget has been removed
 ```

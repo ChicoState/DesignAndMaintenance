@@ -15,16 +15,16 @@ public class driver {
   public static void run (String[] args) throws Exception {
     Inventory inst = Inventory.get_instance();
 
-    System.out.println("Current Number of Items in Inventory:");
-    System.out.println(inst.get_inventory());
+    System.out.println("Current Number of Items in Inventory: "
+      + inst.get_inventory());
 
     inst.add_widget();
     inst.add_widget();
-    System.out.println("Current Number of Items in Inventory:");
-    System.out.println(inst.get_inventory());
+    System.out.println("Current Number of Items in Inventory: "
+      + inst.get_inventory());
 
     inst.remove_widget();
-    System.out.println("Current Number of Items in Inventory:");
-    System.out.println(inst.get_inventory());
+    System.out.println("Current Number of Items in Inventory: "
+      + inst.get_inventory());
   }
 }
