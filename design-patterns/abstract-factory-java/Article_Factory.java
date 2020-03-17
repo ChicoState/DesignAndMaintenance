@@ -1,4 +1,5 @@
 // Concrete class for Article Factory
+// Access concrete components of an Article
 public class Article_Factory implements Publish_Factory {
 
   @Override

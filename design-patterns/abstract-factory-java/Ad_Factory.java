@@ -1,4 +1,5 @@
 // Concrete Class for Ad Factory
+// Access concrete components of an Ad
 public class Ad_Factory implements Publish_Factory {
 
   @Override
