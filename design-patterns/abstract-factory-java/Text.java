@@ -2,4 +2,5 @@
 public interface Text {
   String get_type();
   void add_content();
+  String get_content();
 }
