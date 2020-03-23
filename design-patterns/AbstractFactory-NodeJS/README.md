@@ -12,10 +12,10 @@
 6) The result provides the department ID and name along with the Employee Id and name without digging in their concrete classes.
 
 # Links
-[app.js](.AbstractFactory-NodeJS/app.js)]
-[app.js](.AbstractFactory-NodeJS/Department.js)]
-[app.js](.AbstractFactory-NodeJS/DepartmentFactory.js)]
-[app.js](.AbstractFactory-NodeJS/Employee.js)]
+[app.js](./app.js)
+[app.js](./Department.js)
+[app.js](./DepartmentFactory.js)
+[app.js](./Employee.js)
 
 
 # UML Diagram:
