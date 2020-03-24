@@ -19,15 +19,17 @@ In this example we will create two instances and they refer to sigle instance of
 both the instances are same that is if no instance is present then only create instace is called or else the same
 instance is returned
 
-![](preview.jpg)
+
+<img src="preview.jpg" width=450></img>
+
 
 After clicking the button both instance1 and instance2 are called
 
-![](12-click.jpg)
+<img src="12-click.jpg" width=450></img>
 
 
 ### Running the example
 
 The provided [singleton.js](singleton.js) file creates multiple `Instance` variables, but as you run it, you will notice that all of them refer to the same instance
 
-![](3-click.jpg)
+<img src="3-click.jpg" width=450></img>
