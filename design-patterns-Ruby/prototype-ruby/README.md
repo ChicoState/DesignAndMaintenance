@@ -10,4 +10,4 @@ The implementation of prototype discussed in the Laptop model example demonstrat
 
 The implemented code for prototype can be found [here](prototype.rb)
 
-    ![UML - Prototype - Design Pattern](prototype.jpg "UML - Prototype - Design Pattern")
+![UML - Prototype - Design Pattern](prototype.jpg)
