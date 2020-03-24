@@ -22,14 +22,19 @@ The diagram below shows the working of Factory Method.
 ## UML Diagram 
 Here is a UML illustration of Factory Method, the objects participating in the pattern are:
 
+<img src="uml.png" width="450">
+
+
 - Creator : In code it is Company.
 - Abstract Product : JavaScript does not consist.
 - Concrete Product : Developers as per designations.
 
-<img src="uml.png" width="450">
-
-
 ## JavaScript example
+
+### Code Links
+[Factory.js](./factory.js)
+[index.html](./index.html)
+
 
 
 ### Running the example
