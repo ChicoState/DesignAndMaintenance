@@ -6,14 +6,15 @@ Builder pattern aims to “Separate the construction of a complex object from it
 ![Builder Pattern](example/uml.gif)
 
 # Classes
--   [Phone.java](example/Phone.java) : Director
--   [PhoneBuilder.java](example/PhoneBuilder.java) : Builder
--   [main.java](example/main_shop.java) : Concrete Builder
+-   Product: [Phone.java](example/Phone.java)
+-   Concrete Builder: [PhoneBuilder.java](example/PhoneBuilder.java)
+-   Director: [main.java](example/main_shop.java)
+-   Builder: A builder is an abstract interface of the Product. It defines all of the steps that must be taken in order to correctly create a product.
 
 
 # Java Example
 
-In this example we are building a product, which is a Phone. The `Phone` class, also called as Director contains following properties:
+In this example we are building a product, which is a Phone. The `Phone` class, also called as Product and contains following properties:
 - OS
 - RAM
 - Screen Size
@@ -21,9 +22,12 @@ In this example we are building a product, which is a Phone. The `Phone` class, 
 - Camera
 - Processor
 
-`PhoneBuilder` class is called as the Builder. It is used to build the Phone Object step by step by assigning the values to `Phone` class data members.
+`PhoneBuilder` class is called as the Concrete Builder. It is used to build the Phone Object step by step by assigning the values to `Phone` class data members.
 
-`main` class is the Concrete Builder, which calls the `PhoneBuilder` class and builds the `Phone` object  using the Setter functions.
+`main` class is the Director, which calls the `PhoneBuilder` class and builds the `Phone` object  using the Setter functions. It decides how the product `Phone` should be build and in return gets the object.
+
+
+
 
 # Without the Builder Class:
 - If we try to build a Phone without the Builder Class, we are forced to obey the contructor of `Phone` class.
@@ -31,3 +35,8 @@ In this example we are building a product, which is a Phone. The `Phone` class, 
 - Makes building of `Phone` class more complex and prone to error.
 
 # With the Builder Class: [PhoneBuilder.java](example/PhoneBuilder.java)
+- Constructor parameters are reduced, making it more readable.
+- Object is instantiated in a complete state.
+- Easier to create product.
+- Flexible in creating the final object.
+- Add/Removal of parameters will not affect the main class.
