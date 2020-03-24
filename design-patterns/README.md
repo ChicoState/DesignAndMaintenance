@@ -11,14 +11,14 @@
 | Composite | Structural |   |   |   |   |   |   |
 | Decorator | Structural |   |   |   |   |   |   |
 | Facade | Structural |   |   |   |   |   |   |
-| Factory Method | Creational |   |   |   |   |   |   |
+| Factory Method | Creational |   |   |   |   |   |[Gym Membership](design-patterns-Ruby/factory-ruby)|
 | Flyweight | Structural |   |   |   |   |   |   |
 | Interpreter | Behavioral |   |   |   |   |   |   |
 | Iterator | Behavioral |   |   |   |   |   |   |
 | Mediator | Behavioral |   |   |   |   |   |   |
 | Momento | Behavioral |   |   |   |   |   |   |
 | Observer | Behavioral |   |   |   |   |   |   |
-| Prototype | Creational |   |   |   |   |   |   |
+| Prototype | Creational |   |   |   |   |   |[Laptop](design-patterns-Ruby/prototype-ruby)|
 | Proxy | Structural |   |   |   |   |   |   |
 | Singleton | Creational | [Game Records](singleton-cpp/) |   |   |   |   |   |
 | State | Behavioral |   |   |   |   |   |   |
