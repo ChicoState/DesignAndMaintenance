@@ -11,7 +11,7 @@
 | Composite | Structural |   |   |   |   |   |   |
 | Decorator | Structural |   |   |   |   |   |   |
 | Facade | Structural |   |   |   |   |   |   |
-| Factory Method | Creational |[Globe Continents](FactoryPattern-Java/)   |   |   |   |   |   |
+| Factory Method | Creational |[Globe Continents](FactoryMethod-Java/)   |   |   |   |   |   |
 | Flyweight | Structural |   |   |   |   |   |   |
 | Interpreter | Behavioral |   |   |   |   |   |   |
 | Iterator | Behavioral |   |   |   |   |   |   |
