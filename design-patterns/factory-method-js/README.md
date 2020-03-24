@@ -6,7 +6,7 @@
 
 ## UML Diagram 
 
-![UML diagram explaining working of Factory Method](uml.png "UML class diagram of Factory Method")
+![UML diagram explaining working of Factory Method](uml.png=250x "UML class diagram of Factory Method")
 
 
 ## JavaScript example
@@ -17,8 +17,9 @@
 The provided [Factory.js](Factory.js) and [index.html](index.html) 
 Open index.html in browser to run the JS.
 
-![Output 1](S1.png "Factory Method Output 1")
 
-![Output 2](S2.png "Factory Method Output 2")
+![Output 1](S1.png =250x "Factory Method Output 1")
+
+![Output 2](S2.png =250x "Factory Method Output 2")
 
 
