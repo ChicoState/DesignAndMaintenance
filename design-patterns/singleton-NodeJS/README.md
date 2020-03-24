@@ -4,6 +4,15 @@ The singleton pattern enables us to create an object instance with global access
 
 ![UML of Records class implemented as a Singleton](singleton.png)
 
+# Implementation
+In this example, we have considered a user class with two variables 
+
+We will create two instances named instance1 and instance2
+
+We will use the different instances to set variables
+
+Alert `same instance` if both the instances are same
+
 ## JavaScript example
 
 In this example we will create two instances and they refer to sigle instance of the class. The alert shows that
