@@ -13,9 +13,12 @@
 
 # Links
 [app.js](./app.js)
-[app.js](./Department.js)
-[app.js](./DepartmentFactory.js)
-[app.js](./Employee.js)
+[Department.js](./Department.js)
+[DepartmentFactory.js](./DepartmentFactory.js)
+[Employee.js](./Employee.js)
+[EmployeeFactory.js](./EmployeeFactory.js)
+[FactoryProvider.js](./FactoryProvider.js)
+
 
 
 # UML Diagram:

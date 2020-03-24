@@ -11,9 +11,18 @@
 5) The Vendor class  makes use of the builder objects to build the vehicle.
 6) The resultant output are the cars manufactured using Vendor with specific Builder controls.
 
+# Links
+[app.js](./app.js)
+[Car.js](./Car.js)
+[CarBuilder.js](./CarBuilder.js)
+[MotorCycle.js](./MotorCycle.js)
+[MotorCycleBuilder.js](./MotorCycleBuilder.js)
+[Vehicle.js](./Vehicle.js)
+[VehicleBuilder.js](./VehicleBuilder.js)
+[Vendor.js](./Vendor.js)
 
 # UML Diagram:
-![Abstract Factory Design Pattern](Builder.png)
+![Builder Design Pattern](Builder.png)
 
 # Advantages
 1) Builder pattern  helps minimize the number of parameters in constructor.
