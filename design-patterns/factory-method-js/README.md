@@ -1,8 +1,10 @@
 # Factory Method
 
+## Diagram
 
 ![Diagram explaining working of Factory Method](working.png "Diagram of Factory Method")
 
+## UML Diagram 
 
 ![UML diagram explaining working of Factory Method](uml.png "UML class diagram of Factory Method")
 
