@@ -8,7 +8,7 @@ This pattern involves implementing a prototype interface which tells to create a
 
 ## Java example
 
-In this case, I have created the `Item` class [Item.java](Item.java),Which represents items in the grosserry shop having properties such as ItemName and ItemId.[GrosseryShop.java](GrosseryShop.java) maintains the items in it. The scenario is that in future there is need to create another grosseryshop very similar to what is now. In this case instead of calling costly database queries and loading data we can just clone/ copy current object, for this I have implemented `Cloneable` interface so as to use its clone methos to copy the object.For now I have [loaded data from loadData method](GrosseryShop.java#L47).  
+In this case, I have created the `Item` class [Item.java](Item.java), Which represents items in the grosserry shop having properties such as ItemName and ItemId. [GrosseryShop.java](GrosseryShop.java) maintains the items in it. The scenario is that in future there is need to create another grosseryshop very similar to what is now. In this case instead of calling costly database queries and loading data we can just clone/ copy current object, for this I have implemented `Cloneable` interface so as to use its clone methos to copy the object.For now I have [loaded data from loadData method](GrosseryShop.java#L47).  
 
 [PrototypeMain.java](PrototypeMain.java) class contains the main method where I have created an object of `GrosseryShop` and loaded data from the `loadData`. Now I have to clone thiss object into another object using `clone` and displayed the results.
 
