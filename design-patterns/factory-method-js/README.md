@@ -1,7 +1,11 @@
 # Factory Method
 
 
-![Diagram explaining working of Factory Method](working.png "UML class diagram of Factory Method")
+![Diagram explaining working of Factory Method](working.png "Diagram of Factory Method")
+
+
+![UML diagram explaining working of Factory Method](uml.png "UML class diagram of Factory Method")
+
 
 ## JavaScript example
 
