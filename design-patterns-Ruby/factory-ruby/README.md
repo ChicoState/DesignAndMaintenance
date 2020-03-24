@@ -4,4 +4,4 @@ The implementation of factory method discussed in the Gym Membership example dem
 * we have a common interface Members. Each of the factory method returns different types of members and these members have their basis from interface class. <br>
 
 The implemented code for factory method can be found [here](factory.rb) <br>
-![UML - Factory method - Design Pattern](factory.jpg "UML - Factory method - Design Pattern")
+![UML - Factory method - Design Pattern](factory.png "UML - Factory method - Design Pattern")
