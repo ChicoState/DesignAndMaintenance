@@ -24,6 +24,9 @@
 ## UML Diagram:
 ![Builder Design Pattern](Builder.png)
 
+## Output:
+![Output](Output.png)
+
 ## Advantages
 1) Builder pattern  helps minimize the number of parameters in constructor.
 2) Helps to create immutable objects without complex logic.

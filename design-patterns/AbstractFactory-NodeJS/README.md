@@ -24,6 +24,9 @@
 ## UML Diagram:
 ![Abstract Factory Design Pattern](AbstractFactory.png)
 
+## Output:
+![Output](Output.png)
+
 ## Advantages
 1) The client is independent of how we create and compose the objects in the system
 2) The system consists of multiple families of objects which are designed to be used together.
