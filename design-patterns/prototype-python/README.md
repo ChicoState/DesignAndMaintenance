@@ -1,4 +1,4 @@
-#Prototype
+# Prototype
 
 
 The basic goal of prototype is to create a new object by copying from the original object(prototype) rather than creating a new object from scratch .
