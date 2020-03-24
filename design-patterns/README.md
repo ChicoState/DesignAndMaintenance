@@ -11,14 +11,14 @@
 | Composite | Structural |   |   |   |   |   |   |
 | Decorator | Structural |   |   |   |   |   |   |
 | Facade | Structural |   |   |   |   |   |   |
-| Factory Method | Creational |[Globe Continents](FactoryMethod-Java/)   |   |   |   |   |   |
+| Factory Method | Creational |   |   | [Globe Continents](FactoryMethod-Java/)  |   |   |   |
 | Flyweight | Structural |   |   |   |   |   |   |
 | Interpreter | Behavioral |   |   |   |   |   |   |
 | Iterator | Behavioral |   |   |   |   |   |   |
 | Mediator | Behavioral |   |   |   |   |   |   |
 | Momento | Behavioral |   |   |   |   |   |   |
 | Observer | Behavioral |   |   |   |   |   |   |
-| Prototype | Creational |[Grossery Shop](Prototype-Java/)   |   |   |   |   |   |
+| Prototype | Creational |   |   |[Grossery Shop](Prototype-Java/)   |   |   |   |
 | Proxy | Structural |   |   |   |   |   |   |
 | Singleton | Creational | [Game Records](singleton-cpp/) |   |   |   |   |   |
 | State | Behavioral |   |   |   |   |   |   |
