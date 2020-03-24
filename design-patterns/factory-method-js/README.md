@@ -6,7 +6,7 @@
 
 ## UML Diagram 
 
-<img src="uml.png" width="200">
+<img src="uml.png" width="350">
 
 
 ## JavaScript example
@@ -17,9 +17,9 @@
 The provided [Factory.js](Factory.js) and [index.html](index.html) 
 Open index.html in browser to run the JS.
 
-<img src="S1.png" width="200">
+<img src="S1.png" width="350">
 
-<img src="S2.png" width="200">
+<img src="S2.png" width="350">
 
 
 
