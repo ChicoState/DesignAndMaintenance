@@ -4,7 +4,7 @@
 |---|---|---|---|---|---|---|---|
 | Abstract Factory | Creational |   |   |   |   |   |   |
 | Adapter | Structural |   |   |   |   |   |   |
-| Builder | Creational |   |   |   |   |   |   |
+| Builder | Creational |   |   | [Phone Builder](builder-java/)  |   |   |   |
 | Bridge | Structural |   |   |   |   |   |   |
 | Chain of Responsibility | Behavioral |   |   |   |   |   |   |
 | Command | Behavioral |   |   |   |   |   |   |
