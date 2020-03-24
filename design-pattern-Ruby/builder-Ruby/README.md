@@ -11,4 +11,4 @@ The implementation of builder  discussed in the Construction Management example 
  The implemented code for builder can be found [here](builder.rb)
 
 
-    ![UML - Builder - Design Pattern](builder.jpg "UML - Builder - Design Pattern")
+    ![UML - Builder - Design Pattern](builder.jpg)
