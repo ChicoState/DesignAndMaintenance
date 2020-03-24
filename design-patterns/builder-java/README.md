@@ -7,4 +7,4 @@ Builder pattern aims to “Separate the construction of a complex object from it
 
 # Java Example
 
-In this example we are attempting to build a product, which is a Phone. The `Phone` class [Phone.java]
+In this example we are attempting to build a product, which is a Phone. The `Phone` class [Phone.java](example/Phone.java)
