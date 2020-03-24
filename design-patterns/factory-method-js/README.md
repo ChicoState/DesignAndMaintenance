@@ -32,8 +32,8 @@ Here is a UML illustration of Factory Method, the objects participating in the p
 ## JavaScript example
 
 ### Code Links
-[Factory.js](./factory.js)
-[index.html](./index.html)
+[Factory.js](factory.js)
+[index.html](index.html)
 
 
 
