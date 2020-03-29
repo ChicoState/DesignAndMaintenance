@@ -4,8 +4,8 @@
 |---|---|---|---|---|---|---|---|
 | Abstract Factory | Creational |   |   |   |   |   |   |
 | Adapter | Structural |   |   |   |   |   |   |
-| Builder | Creational |   |   | [Phone Builder](builder-java/)  |   |   |   |
-| Bridge | Structural |   |   |   |   |   |   |
+| Builder | Creational |   |   | [Phone Builder](builder-java/) |   |   |   |
+| Bridge | Structural |   |   | [Game play](bridge-java/) |   |   |   |
 | Chain of Responsibility | Behavioral |   |   |   |   |   |   |
 | Command | Behavioral |   |   |   |   |   |   |
 | Composite | Structural |   |   |   |   |   |   |
