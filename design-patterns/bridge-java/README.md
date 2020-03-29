@@ -18,6 +18,9 @@ UML diagram:
 `action` is an abstract class, implemented by `Civilian` and `Warrior` classes. A seperated hierarchy in which `monster` interface is implemented by `Orc` and `Chimera`.
 Using the Bridge design pattern, we decouple the `action` abstract class from its implementation, which is `Civilian` and `Warrior`.
 `action` takes an instance of `monster` and runs its methods, thus decoupling the `action` and its implementations `Civilian` and `Warrior`
+Here, each instance of `action` has a level, and if the level is greater than an instance of `monster` only then we can attack it.
+Every instance of `action` is decoupled from its parent abstract class, and works depending on the `monster` instance.
+
 
 # Problems Solved
 - An abstraction and its implementation should be defined and extended independently from each other.
