@@ -8,7 +8,7 @@
 | Bridge | Structural |   |   | [Game play](bridge-java/) |   |   |   |
 | Chain of Responsibility | Behavioral |   |   |   |   |   |   |
 | Command | Behavioral |   |   |   |   |   |   |
-| Composite | Structural |   |   | [entertainment.java](composite-java/)  |   |   |   |
+| Composite | Structural |   |   | [Entertainment Structure](composite-java/)  |   |   |   |
 | Decorator | Structural |   |   |   |   |   |   |
 | Facade | Structural |   |   |   |   |   |   |
 | Factory Method | Creational |   |   |   |   |   |   |
