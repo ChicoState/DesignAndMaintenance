@@ -9,7 +9,7 @@
 | Chain of Responsibility | Behavioral |   |   |   |   |   |   |
 | Command | Behavioral |   |   |   |   |   |   |
 | Composite | Structural |   |   | [Entertainment Structure](composite-java/)  |   |   |   |
-| Decorator | Structural |   |   |   |   |   |   |
+| Decorator | Structural |   |   | [Car Assemble](decorator-java/) |   |   |   |
 | Facade | Structural |   |   |   |   |   |   |
 | Factory Method | Creational |   |   |   |   |   |   |
 | Flyweight | Structural |   |   |   |   |   |   |
