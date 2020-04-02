@@ -5,7 +5,7 @@
 | Abstract Factory | Creational |   |   |   |   | [Car Factory](abstract-factory-python/) |   |
 | Adapter | Structural |   |   |   |   |   |   |
 | Builder | Creational |   |   |   |   | [Plane Builder](builder-python/)  |   |
-| Bridge | Structural |   |   |   |   |   |   |
+| Bridge | Structural |   |   |   |   | [Ford Mustang Variants] (bridge-python/)   |   |
 | Chain of Responsibility | Behavioral |   |   |   |   |   |   |
 | Command | Behavioral |   |   |   |   |   |   |
 | Composite | Structural |   |   |   |   |   |   |
