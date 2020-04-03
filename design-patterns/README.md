@@ -3,12 +3,12 @@
 | Design Pattern | Category | C++ | C# | Java | JavaScript | Python | Ruby |
 |---|---|---|---|---|---|---|---|
 | Abstract Factory | Creational |   |   |   |   |   |   |
-| Adapter | Structural |   |   |   |   |   |   |
+| Adapter | Structural |   |   |   |   | [smartphone battery](adapter-python/)  |   |
 | Builder | Creational |   |   |   |   |   |   |
 | Bridge | Structural |   |   |   |   |   |   |
 | Chain of Responsibility | Behavioral |   |   |   |   |   |   |
 | Command | Behavioral |   |   |   |   |   |   |
-| Composite | Structural |   |   |   |   |   |   |
+| Composite | Structural |   |   |   |   | [Grocery Store Items](composite-python/)  |   |
 | Decorator | Structural |   |   |   |   |   |   |
 | Facade | Structural |   |   |   |   |   |   |
 | Factory Method | Creational |   |   |   |   |   |   |
