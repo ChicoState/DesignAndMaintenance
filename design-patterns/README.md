@@ -12,7 +12,7 @@
 | Decorator | Structural |   |   |   |   |   |   |
 | Facade | Structural |   |   |   |   |   |   |
 | Factory Method | Creational |   |   |   |   | [Converter](factory-method-python/) |   |
-| Flyweight | Structural |   |   |   |   |   |   |
+| Flyweight | Structural |   |   |   |   | [Bank Accounts](flyweight-python/) |   |
 | Interpreter | Behavioral |   |   |   |   |   |   |
 | Iterator | Behavioral |   |   |   |   |   |   |
 | Mediator | Behavioral |   |   |   |   |   |   |
