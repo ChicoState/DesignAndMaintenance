@@ -9,7 +9,7 @@
 | Chain of Responsibility | Behavioral |   |   |   |   |   |   |
 | Command | Behavioral |   |   |   |   |   |   |
 | Composite | Structural |   |   |   |   |   |   |
-| Decorator | Structural |   |   |   |   |   |   |
+| Decorator | Structural |   |   |   |   | [Distance Units Conversion](decorator-python/) |   |
 | Facade | Structural |   |   |   |   |   |   |
 | Factory Method | Creational |   |   |   |   |   |   |
 | Flyweight | Structural |   |   |   |   |   |   |
@@ -19,7 +19,7 @@
 | Momento | Behavioral |   |   |   |   |   |   |
 | Observer | Behavioral |   |   |   |   |   |   |
 | Prototype | Creational |   |   |   |   |   |   |
-| Proxy | Structural |   |   |   |   |   |   |
+| Proxy | Structural |   |   |   |   | [Area Calculator](proxy-python/)  |   |
 | Singleton | Creational | [Game Records](singleton-cpp/) |   |   |   |   |   |
 | State | Behavioral |   |   |   |   |   |   |
 | Strategy | Behavioral |   |   |   |   |   |   |
