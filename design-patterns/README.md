@@ -4,7 +4,7 @@
 |---|---|---|---|---|---|---|---|
 | Abstract Factory | Creational |   |   | [Publish Factory](abstract-factory-java/) |   |   |   |
 | Adapter | Structural |   |   |   |   |   |   |
-| Builder | Creational |   |   |   |   |   |   |
+| Builder | Creational |   |   |   |   |   |[Construction Management](design-pattern-Ruby/builder-Ruby) |
 | Bridge | Structural |   |   |   |   |   |   |
 | Chain of Responsibility | Behavioral |   |   |   |   |   |   |
 | Command | Behavioral |   |   |   |   |   |   |
