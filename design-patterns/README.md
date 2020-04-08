@@ -4,12 +4,12 @@
 |---|---|---|---|---|---|---|---|
 | Abstract Factory | Creational |   |   | [Publish Factory](abstract-factory-java/) |   |   |   |
 | Adapter | Structural |   |   |   |   |   |   |
-| Builder | Creational |   |   |   |   |   |   |
-| Bridge | Structural |   |   |   |   |   |   |
+| Builder | Creational |   |   | [Phone Builder](builder-java/) |   |   |[Construction Management](design-pattern-Ruby/builder-Ruby)|
+| Bridge | Structural |   |   | [Game play](bridge-java/) |   |   |   |
 | Chain of Responsibility | Behavioral |   |   |   |   |   |   |
 | Command | Behavioral |   |   |   |   |   |   |
-| Composite | Structural |   |   |   |   |   |   |
-| Decorator | Structural |   |   |   |   |   |   |
+| Composite | Structural |   |   | [Entertainment Structure](composite-java/)  |   |   |   |
+| Decorator | Structural |   |   | [Car Assemble](decorator-java/) |   |   |   |
 | Facade | Structural |   |   |   |   |   |   |
 | Factory Method | Creational |   |   | [Globe Continents](FactoryMethod-Java/)  |   |   |[Gym Membership](design-patterns-Ruby/factory-ruby)|
 | Flyweight | Structural |   |   |   |   |   |   |
