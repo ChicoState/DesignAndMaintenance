@@ -2,25 +2,25 @@
 
 | Design Pattern | Category | C++ | C# | Java | JavaScript | Python | Ruby |
 |---|---|---|---|---|---|---|---|
-| Abstract Factory | Creational |   |   |   |   | [Car Factory](abstract-factory-python/) |   |
+| Abstract Factory | Creational |   |   |[Publish Factory](abstract-factory-java/)   |  [Employee System](AbstractFactory-NodeJS/) |[Car Factory](abstract-factory-python/)   |   |
 | Adapter | Structural |   |   |   |   |   |   |
-| Builder | Creational |   |   |   |   | [Plane Builder](builder-python/)  |   |
-| Bridge | Structural |   |   |   |   | [Ford Mustang Variants](bridge-python/) |   |
+| Builder | Creational |   |   |[Phone Builder](builder-java/) |  [Vehicle Builder](Builder-NodeJS/) | [Plane Builder](builder-python/)  |[Construction Management](design-pattern-Ruby/builder-Ruby)|
+| Bridge | Structural |   |   |[Game play](bridge-java/)   |   |[Ford Mustang Variants](bridge-python/)   |   |
 | Chain of Responsibility | Behavioral |   |   |   |   |   |   |
 | Command | Behavioral |   |   |   |   |   |   |
-| Composite | Structural |   |   |   |   |   |   |
-| Decorator | Structural |   |   |   |   |   |   |
+| Composite | Structural |   |   | [Entertainment Structure](composite-java/)  |   |   |   |
+| Decorator | Structural |   |   | [Car Assemble](decorator-java/) |   |   |   |
 | Facade | Structural |   |   |   |   |   |   |
-| Factory Method | Creational |   |   |   |   | [Converter](factory-method-python/) |   |
-| Flyweight | Structural |   |   |   |   | [Bank Accounts](flyweight-python/) |   |
+| Factory Method | Creational |   |   |[Globe Continents](FactoryMethod-Java/)| [Software Company](factory-method-js/)  |[Converter](factory-method-python/)   |[Gym Membership](design-patterns-Ruby/factory-ruby)|
+| Flyweight | Structural |   |   |   |   |[Bank Accounts](flyweight-python/)   |   |
 | Interpreter | Behavioral |   |   |   |   |   |   |
 | Iterator | Behavioral |   |   |   |   |   |   |
 | Mediator | Behavioral |   |   |   |   |   |   |
 | Momento | Behavioral |   |   |   |   |   |   |
 | Observer | Behavioral |   |   |   |   |   |   |
-| Prototype | Creational |   |   |   |   | [Temperature Measurement](prototype-python/) |   |
+| Prototype | Creational |   |   | [Grossery Shop](Prototype-Java/) |[Customer Management](Prototype-NodeJS/)   |[Temperature Measurement](prototype-python/)   |[Laptop](design-patterns-Ruby/prototype-ruby)|
 | Proxy | Structural |   |   |   |   |   |   |
-| Singleton | Creational | [Game Records](singleton-cpp/) |   |   |   | [PhoneBook](singleton-python/) |   |
+| Singleton | Creational | [Game Records](singleton-cpp/) |   | [Inventory](singleton-java/) |[Class Check](singleton-NodeJS/)   |[PhoneBook](singleton-python/)   |   |
 | State | Behavioral |   |   |   |   |   |   |
 | Strategy | Behavioral |   |   |   |   |   |   |
 | Template Method | Behavioral |   |   |   |   |   |   |
