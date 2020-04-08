@@ -2,7 +2,7 @@
 
 | Design Pattern | Category | C++ | C# | Java | JavaScript | Python | Ruby |
 |---|---|---|---|---|---|---|---|
-| Abstract Factory | Creational |   |   |   |   |   |   |
+| Abstract Factory | Creational |   |   | [Publish Factory](abstract-factory-java/) |   |   |   |
 | Adapter | Structural |   |   |   |   |   |   |
 | Builder | Creational |   |   |   |   |   |   |
 | Bridge | Structural |   |   |   |   |   |   |
@@ -20,7 +20,7 @@
 | Observer | Behavioral |   |   |   |   |   |   |
 | Prototype | Creational |   |   |   |   |   |   |
 | Proxy | Structural |   |   |   |   |   |   |
-| Singleton | Creational | [Game Records](singleton-cpp/) |   |   |   |   |   |
+| Singleton | Creational | [Game Records](singleton-cpp/) |   | [Inventory](singleton-java/) |   |   |   |
 | State | Behavioral |   |   |   |   |   |   |
 | Strategy | Behavioral |   |   |   |   |   |   |
 | Template Method | Behavioral |   |   |   |   |   |   |
