@@ -3,14 +3,14 @@
 | Design Pattern | Category | C++ | C# | Java | JavaScript | Python | Ruby |
 |---|---|---|---|---|---|---|---|
 | Abstract Factory | Creational |   |   |[Publish Factory](abstract-factory-java/)   |  [Employee System](AbstractFactory-NodeJS/) |[Car Factory](abstract-factory-python/)   |   |
-| Adapter | Structural |   |   |   |   |[smartphone battery](adapter-python/)|   |
+| Adapter | Structural |   |   |[Temperature Adapter](adapter-java/) |   |[smartphone battery](adapter-python/)|   |
 | Builder | Creational |   |   |[Phone Builder](builder-java/) |  [Vehicle Builder](Builder-NodeJS/) | [Plane Builder](builder-python/)  |[Construction Management](design-pattern-Ruby/builder-Ruby)|
 | Bridge | Structural |   |   |[Game play](bridge-java/)   |   |[Ford Mustang Variants](bridge-python/)   |   |
 | Chain of Responsibility | Behavioral |   |   |   |   |   |   |
 | Command | Behavioral |   |   |   |   |   |   |
 | Composite | Structural |   |   | [Entertainment Structure](composite-java/)  |   |[Grocery Store Items](composite-python/)|   |
 | Decorator | Structural |   |   | [Car Assemble](decorator-java/) |   |[Distance Units Conversion](decorator-python/)|   |
-| Facade | Structural |   |   |   |   |   |   |
+| Facade | Structural |   |   |[Ride Analyzer](facade-java/)   |   |   |   |
 | Factory Method | Creational |   |   |[Globe Continents](FactoryMethod-Java/)| [Software Company](factory-method-js/)  |[Converter](factory-method-python/)   |[Gym Membership](design-patterns-Ruby/factory-ruby)|
 | Flyweight | Structural |   |   |   |   |[Bank Accounts](flyweight-python/)   |   |
 | Interpreter | Behavioral |   |   |   |   |   |   |
