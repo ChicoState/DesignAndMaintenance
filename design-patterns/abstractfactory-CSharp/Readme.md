@@ -1,0 +1,10 @@
+# Abstract Factory
+
++ The abstract factory pattern provides a way to encapsulate a group of individual factories    that have a common theme without specifying their concrete classes. In normal usage, the client software creates a concrete implementation of the abstract factory and then uses the generic interface of the factory to create the concrete objects that are part of the theme. The client doesn't know (or care) which concrete objects it gets from each of these internal factories, since it uses only the generic interfaces of their products. This pattern separates the details of implementation of a set of objects from their general usage and relies on object composition, as object creation is implemented in methods exposed in the factory interface.
++
++
++ I am using example of Sandwich and Pizza to explain Abstract Factory Pattern. The Sandwich and Pizza are made up of Veggies, Pineapple, Beaf, Pork etc, but they are still sandwiches and Pizza.So we can consider Sandwich as a family of related objects. Same Pizza as a family of related objects.Some people are Vegeterian they cannot eat Meat & Beaf, while few other people love to eat novegeterian food. So I made two generic abstract class for Sandwich and Pizza. We need an abstract class that will return Sandwich and Pizza which is ReciepeFactory class.To implement objects we have concrete objects(e.g:class Vegcheese:Sandwich{}). We also need a ConcreteFactory which implements the AbstractFactory and returns the Vegeterian meal recipes that are(VegChoiceFactory,NVegChoiceFactory).Same type of ConcreteFactory I implemented to return NonVegeterian meal.
++
++ This code contains 2 files Program.cs and RecipeFactory.cs . I used mono to implement C-sharp codes. First command I used to run is csc Program.cs RecipeFactory.cs. The second command I used to run is mono Program.exe. You can run the codes in Visual Studio.
++
++ ![UML of Meal and related products implemented as an Abstract Factory](Abstract-Factory.png "UML class diagram of Abstract Factory")
