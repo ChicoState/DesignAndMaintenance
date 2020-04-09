@@ -5,4 +5,4 @@ The implementation of composite discussed in the Gym Management mode example dem
 * The Manager object would simply return all the student leads and student employees working under him.<br>
 
 The implemented code for composite can be found [here](composite.rb) <br>
-![UML - Composite - Design Pattern](prototype.png "UML - Composite - Design Pattern")
+![UML - Composite - Design Pattern](composite.png "UML - Composite - Design Pattern")
