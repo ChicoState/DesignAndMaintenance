@@ -4,7 +4,7 @@ Facade Design Pattern belongs to structural design patterns, and it is nothing b
 
 Here is a the working illustration of the Facade Pattern:
 
-<img src="Facade.png" style="width:350px;">
+<img src="Facade.png" width="350">
 
 ## JavaScript Example
 
@@ -12,7 +12,7 @@ Here is a the working illustration of the Facade Pattern:
 
 Here is a UML illustration of `FlightAvail` implemented as an `Facade Design Pattern`.
 
-<img src="Facade_UML.png" style="width:350px;">
+<img src="Facade_UML.png" width="350">
 
 In this example, we have implemented a Flight Availability Check application, which checks for flights with different airlines and considering all the airlines gives the first available flight from the source to the destination. In this example, `FlightAvail` is the interface used to get data from the client. The subsystems, in this case, are `Delta,` `United`, and `CathayPacific` which operate to check for the flight on the requested route. And return bool value if the particular subsystem satisfies the need. In this example, every subsystem functions for the client; in this case, the client does not need to know how the subsystem functions.
 
@@ -20,6 +20,6 @@ In this example, we have implemented a Flight Availability Check application, wh
 
 This example consists of a front-end written in pure HTML/CSS and contains a form to get input from the client and then hands over to the JS Class to perform the required operation.
 
-<img src="S1.png" style="width:350px;">
-<img src="S2.png" style="width:350px;">
-<img src="S3.png" style="width:350px;">
+<img src="S1.png" width="350">
+<img src="S2.png" width="350">
+<img src="S3.png" width="350">
