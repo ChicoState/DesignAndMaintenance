@@ -16,7 +16,7 @@
 [PowerRemote.js](./PowerRemote.js)
 [SonyTV.js](./SonyTV.js)
 [SamsungTV.js](./SamsungTV.js)
-[app.js](./MotorCycleBuilder.js)
+[app.js](./app.js)
 
 
 

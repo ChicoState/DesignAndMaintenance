@@ -13,8 +13,8 @@
 
 ## Links
 [app.js](./app.js)
-[Image.js](./Mortgage.js)
-[ImageFactory.js](./CreditHistory.js)
+[Image.js](./Image.js)
+[ImageFactory.js](./ImageFactory.js)
 
 
 
