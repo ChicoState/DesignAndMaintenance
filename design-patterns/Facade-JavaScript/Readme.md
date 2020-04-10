@@ -20,6 +20,7 @@ In this example, we have implemented a Flight Availability Check application, wh
 
 This example consists of a front-end written in pure HTML/CSS and contains a form to get input from the client and then hands over to the JS Class to perform the required operation.
 
+<br>
 This example shows that there is Flight Available from Delta Airline.
 <img src="S1.png" width="350">
 
