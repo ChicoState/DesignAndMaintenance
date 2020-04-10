@@ -6,7 +6,11 @@ Here is a the working illustration of the Facade Pattern:
 
 <img src="Facade.png">
 
-## JavaScript example
+## JavaScript Example
+
+# Flight Availability Check
+
+Here is a UML illustration of `FlightAvail` implemented as an `Facade Design Pattern`.
 
 <img src="Facade_UML.png">
 
@@ -16,6 +20,6 @@ In this example, we have implemented a Flight Availability Check application, wh
 
 This example consists of a front-end written in pure HTML/CSS and contains a form to get input from the client and then hands over to the JS Class to perform the required operation.
 
-<img src="S1">
-<img src="S2">
-<img src="S3">
+<img src="S1.png">
+<img src="S2.png">
+<img src="S3.png">
