@@ -22,12 +22,12 @@ This example consists of a front-end written in pure HTML/CSS and contains a for
 
 <br>
 <img src="S1.png" width="350">
-This example shows that there is Flight Available from Delta Airline.
+This example shows that there is Flight Available from Delta Airline.<br>
 
 <br>
 <img src="S2.png" width="350">
-This example shows that there is Flight Available from United Airline.
+This example shows that there is Flight Available from United Airline.<br>
 
 <br>
 <img src="S3.png" width="350">
-This example shows that there is No Flight Available from the source to destination.
+This example shows that there is No Flight Available from the source to destination.<br>
