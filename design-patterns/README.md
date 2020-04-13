@@ -12,14 +12,14 @@
 | Decorator | Structural |   |   | [Car Assemble](decorator-java/) |   |[Distance Units Conversion](decorator-python/)|   |
 | Facade | Structural |   |   |[Ride Analyzer](facade-java/)   |   |   |   |
 | Factory Method | Creational |   |   |[Globe Continents](FactoryMethod-Java/)| [Software Company](factory-method-js/)  |[Converter](factory-method-python/)   |[Gym Membership](design-patterns-Ruby/factory-ruby)|
-| Flyweight | Structural |   |   |   |   |[Bank Accounts](flyweight-python/)   |   |
+| Flyweight | Structural |   |   |[Health Proffesionals](Flyweight-Java/)   |   |[Bank Accounts](flyweight-python/)   |   |
 | Interpreter | Behavioral |   |   |   |   |   |   |
 | Iterator | Behavioral |   |   |   |   |   |   |
 | Mediator | Behavioral |   |   |   |   |   |   |
 | Momento | Behavioral |   |   |   |   |   |   |
 | Observer | Behavioral |   |   |   |   |   |   |
 | Prototype | Creational |   |   | [Grossery Shop](Prototype-Java/) |[Customer Management](Prototype-NodeJS/)   |[Temperature Measurement](prototype-python/)   |[Laptop](design-patterns-Ruby/prototype-ruby)|
-| Proxy | Structural |   |   |   |   |[Area Calculator](proxy-python/)   |   |
+| Proxy | Structural |   |   | [System Access](Proxy-Java/)  |   |[Area Calculator](proxy-python/)   |   |
 | Singleton | Creational | [Game Records](singleton-cpp/) |   | [Inventory](singleton-java/) |[Class Check](singleton-NodeJS/)   |[PhoneBook](singleton-python/)   |   |
 | State | Behavioral |   |   |   |   |   |   |
 | Strategy | Behavioral |   |   |   |   |   |   |
