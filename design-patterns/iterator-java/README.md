@@ -18,3 +18,7 @@ So any time, we have collection of objects and clients need a way to iterate ove
 
 # UML for the JAVA Example
 ![Java Example](example/uml2.png)
+
+# Iterator Design Pattern Important Points
+- Iterator pattern is useful when you want to provide a standard way to iterate over a collection and hide the implementation logic from client program.
+- The logic for iteration is embedded in the collection itself and it helps client program to iterate over them easily.
