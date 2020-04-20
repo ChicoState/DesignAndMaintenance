@@ -14,7 +14,7 @@
 | Factory Method | Creational |   |   | [Globe Continents](FactoryMethod-Java/)  |   |   |[Gym Membership](design-patterns-Ruby/factory-ruby)|
 | Flyweight | Structural |   |   |   |   |   |   |
 | Interpreter | Behavioral |   |   |   |   |   |   |
-| Iterator | Behavioral |   |   |   |   |   |   |
+| Iterator | Behavioral |   |   |[Food Storage](iterator-java/)  |   |   |   |
 | Mediator | Behavioral |   |   |   |   |   |   |
 | Momento | Behavioral |   |   |   |   |   |   |
 | Observer | Behavioral |   |   |   |   |   |   |
