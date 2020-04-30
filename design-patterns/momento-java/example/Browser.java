@@ -14,7 +14,7 @@ public class Browser{
         url = c.getWebsite();
         visited = c.getDate();
     }
-    public String getBrowerDetails()
+    public String getBrowserDetails()
     {
         String s;
         if(url==null)
