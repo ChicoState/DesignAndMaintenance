@@ -1,6 +1,6 @@
 import java.time.LocalDate;
 //Client
-public class HistoryManagement{
+public class BrowserManagement{
     public static void main(String args[])
     {
         //IN THIS CYCLE WE WILL CREATE 2 TABS AND REMOVE THE LATEST TAB
