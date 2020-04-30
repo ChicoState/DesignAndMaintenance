@@ -14,7 +14,7 @@ In the example we have a Basic Web Browser. Which is implemntaing the Momento De
 - [Browser.java](example/Browser.java) is the Originator which Create new Browser Tabs and stores the latest active tab in the browser.
 - [CurrentTab.java](example/CurrentTab.java) is the Momento and stores and maintains the current tab information.
 - [History.java](example/History.java) is the Caretaker which stores the Browser Tabs history in an ArrayList and a pointer to the last entry.
-- [BrowserManagement.java](example/BrowserManagement.java) is the Client which runs the Browser.
+- [WebBrowser.java](example/WebBrowser.java) is the Client which runs the Browser.
 
 # Example UML
 ![Browser Pattern](example/uml2.png)
