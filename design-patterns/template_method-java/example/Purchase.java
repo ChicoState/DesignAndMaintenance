@@ -26,7 +26,7 @@ public class Purchase extends Transaction{
         return null;
     }
 
-    public void debit_amount(double amnt)
+    private void debit_amount(double amnt)
     {
         amount = amnt;
     }

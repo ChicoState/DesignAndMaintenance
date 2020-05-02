@@ -24,7 +24,7 @@ public class Payroll extends Transaction{
         return null;
     }
 
-    public void transfer_amount(double amnt)
+    private void transfer_amount(double amnt)
     {
         amount = amnt;
     }

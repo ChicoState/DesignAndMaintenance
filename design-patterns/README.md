@@ -23,5 +23,5 @@
 | Singleton | Creational | [Game Records](singleton-cpp/) |   | [Inventory](singleton-java/) |   |   |   |
 | State | Behavioral |   |   |   |   |   |   |
 | Strategy | Behavioral |   |   |   |   |   |   |
-| Template Method | Behavioral |   |   |   |   |   |   |
+| Template Method | Behavioral |   |   |[ERP System](template_method-java)  |   |   |   |
 | Visitor | Behavioral |   |   |   |   |   |   |

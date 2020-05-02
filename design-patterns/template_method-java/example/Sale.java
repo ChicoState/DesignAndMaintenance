@@ -25,7 +25,7 @@ public class Sale extends Transaction{
         return null;
     }
 
-    public void credit_amount(double amnt)
+    private void credit_amount(double amnt)
     {
         amount = amnt;
     }

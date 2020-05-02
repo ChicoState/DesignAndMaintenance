@@ -9,22 +9,25 @@ To make sure that subclasses don’t override the template method, we should mak
 # Design Pattern UML
 ![Template Method Pattern](example/uml1.png)
 
-- Originator: The object for which the state is to be saved. It creates the memento and uses it in future to undo.
-- Momento : The object that is going to maintain the state of originator.
-- Caretaker : The object that keeps track of multiple memento.
+This pattern is useful anytime you have an algorithm that has one or more steps that need to vary, or when you have a couple algorithms that are very nearly the same but differ by just a step or two.
+Rather than having multiple classes that implement a nearly identical set of instructions, or trying to mash up methods that are really different responsibilities into one class, you can cleanly seperate concerns into their own implementations.
 
 # Java Example
-In the example we have a Basic Web Browser. Which is implemntaing the Momento Design Pattern to store, delete and restore browser history.
-- [Browser.java](example/Browser.java) is the Originator which Create new Browser Tabs and stores the latest active tab in the browser.
-- [CurrentTab.java](example/CurrentTab.java) is the Momento and stores and maintains the current tab information.
-- [History.java](example/History.java) is the Caretaker which stores the Browser Tabs history in an ArrayList and a pointer to the last entry.
-- [WebBrowser.java](example/WebBrowser.java) is the Client which runs the Browser.
+In the example we have a Basic ERP System which creates a transaction for Purchase, Sale and Payroll.
+- [Purchase.java](example/Purchase.java) is a Concrete class which implements the Transaction class.
+- [Sale.java](example/Sale.java) is a Concrete class which implements the Transaction class.
+- [Payroll.java](example/Payroll.java) is a Concrete class which implements the Transaction class.
+- [ERP_System.java](example/ERP_System.java) is the Client which runs the ERP System.
+
+In this example, every Transaction has fixed steps and remain same for Purchase, Sale, and Payroll.
+Each of the concrete class has a private function which calculates the transaction amount.
 
 # Example UML
-![Browser Pattern](example/uml2.png)
+![ERP System](example/uml2.png)
 
 
 # Use of Design Pattern
-- Need an undo and restore mechanism.
-- Database rollback. To be able to rollback, have the Originator create a snapshot (memento) before performing an operation and thus in case of failure, the memento object would be used to restore the Originator to its previous state.
-- Want to simplify Originator code so it does not need to keep track of its previous state by moving such responsibility to the Caretaker code.
+- The template method is used in frameworks, where each implements the invariant parts of a domain's architecture, while providing hook methods for customization. This is an example of inversion of control. The template method is used for the following reasons.
+- It lets subclasses implement varying behavior (through overriding of the hook methods).
+- It avoids duplication in the code: the general workflow of the algorithm is implemented once in the abstract class's template method, and necessary variations are implemented in the subclasses.
+- It controls the point(s) at which specialization is permitted. If the subclasses were to simply override the template method, they could make radical and arbitrary changes to the workflow. In contrast, by overriding only the hook methods, only certain specific details of the workflow can be changed, and the overall workflow is left intact.
