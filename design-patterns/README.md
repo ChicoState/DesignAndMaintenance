@@ -17,8 +17,8 @@
 | Iterator | Behavioral |   |   |   |   |   |   |
 | Mediator | Behavioral |   |   |   |   |   |   |
 | Momento | Behavioral |   |   |   |   |   |   |
-| Observer | Behavioral |   |   |   |   |   |   |
-| Prototype | Creational |   |   | [Grossery Shop](Prototype-Java/) |[Customer Management](Prototype-NodeJS/)   |[Temperature Measurement](prototype-python/)   |[Laptop](design-patterns-Ruby/prototype-ruby)|
+| Observer | Behavioral |   |   |[Instagram Observer](Observer-Java/)   |   |   |   |
+| Prototype | Creational |   |   | [Grocery Shop](Prototype-Java/) |[Customer Management](Prototype-NodeJS/)   |[Temperature Measurement](prototype-python/)   |[Laptop](design-patterns-Ruby/prototype-ruby)|
 | Proxy | Structural |   |   | [System Access](Proxy-Java/)  |   |[Area Calculator](proxy-python/)   |   |
 | Singleton | Creational | [Game Records](singleton-cpp/) |   | [Inventory](singleton-java/) |[Class Check](singleton-NodeJS/)   |[PhoneBook](singleton-python/)   |   |
 | State | Behavioral |   |   |   |   |   |   |
