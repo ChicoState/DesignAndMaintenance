@@ -1,7 +1,7 @@
 # Observer design pattern
 
 Observer pattern is used when there is one-to-many relationship between objects when there is obects dependent on one object. In this case dependent objects are notified of the updattions that are made on the object on which every other object is dependent. 
-
+Observer pattern uses three actor classes. Subject[Subject.java](Subject.java), Observer[Observer.java](Observer.java) and Client[Followers.java](Followers.java). Subject is an object having methods to attach and detach observers to a client object. We have created an abstract class Observer and a concrete class Subject that is extending class Observer.
 ![UML of Behavioral pattern demonstrating Instagram](Observer.png "UML class diagram of Observer Pattern")
 
 ## Java example
