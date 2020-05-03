@@ -9,7 +9,10 @@ I have created Visitable interface which has accept method, Patient[Patient.java
 
 ### Running the example
 
+```{bash}
+$output:
 Neuro surgeon Dr. Will Smith did the check up of the patient - Pratiksha found health is serious
 Neuro surgeon Dr. Will Smith did the check up of the patient - Pranav found health is serious
 Neuro surgeon Dr. Will Smith did the check up of the patient - Uttkarsh found health is serious
 Neuro surgeon Dr. Will Smith did the check up of the patient - Ujjwal found health is serious
+```
