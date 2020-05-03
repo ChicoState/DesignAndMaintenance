@@ -24,4 +24,4 @@
 | State | Behavioral |   |   |   |   |   |   |
 | Strategy | Behavioral |   |   |   |   |   |   |
 | Template Method | Behavioral |   |   |   |   |   |   |
-| Visitor | Behavioral |   |   |   |   |   |   |
+| Visitor | Behavioral |   |   |[Hospital Visitor](Visitor-Java/)   |   |   |   |
