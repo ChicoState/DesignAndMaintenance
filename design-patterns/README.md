@@ -15,13 +15,14 @@
 | Flyweight | Structural |   |   | [Health Proffesionals](Flyweight-Java/)    |   |[Bank Accounts](flyweight-python/)   |[Banking Operation](flyweight-ruby/)|
 | Interpreter | Behavioral |   |   |   |   |   |   |
 | Iterator | Behavioral |   |   |   |   |   |   |
-| Mediator | Behavioral |   |   |   |   |   |   |
+| Mediator | Behavioral |   |   |   |   |[Phonebook](mediator-python/)|   |
 | Momento | Behavioral |   |   |   |   |   |   |
 | Observer | Behavioral |   |   |   |   |   |   |
 | Prototype | Creational |   |   | [Grossery Shop](Prototype-Java/) |[Customer Management](Prototype-NodeJS/)   |[Temperature Measurement](prototype-python/)   |[Laptop](design-patterns-Ruby/prototype-ruby)|
 | Proxy | Structural |   |   | [System Access](Proxy-Java/)  |   |[Area Calculator](proxy-python/)   |   |
 | Singleton | Creational | [Game Records](singleton-cpp/) |   | [Inventory](singleton-java/) |[Class Check](singleton-NodeJS/)   |[PhoneBook](singleton-python/)   |   |
 | State | Behavioral |   |   |   |   |   |   |
-| Strategy | Behavioral |   |   |   |   |   |   |
+| Strategy | Behavioral |   |   |   |   | [HCF&LCM Calculator](stratergy-python/)  |   |
 | Template Method | Behavioral |   |   |   |   |   |   |
-| Visitor | Behavioral |   |   |   |   |   |   |
+| Visitor | Behavioral |   |   |   |   |[Area Calculator](visitor-python/)|   |
+
