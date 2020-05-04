@@ -4,7 +4,7 @@ Command is a behavioral design pattern that turns a request itself into an objec
 
 A practical use of the Command pattern could be for a menu of list commands. In this example, there is a list of ingredients (items in a recipe), each with a name and weight in grams. There are many ways we may want to manipulate a list, and there could be many other clients wanting to use these same list commands. Here is a UML illustration of the Command design pattern for behaviors associated with `ListCommand`:
 
-![UML of ListCommand implemented with the Command Pattern](command-java.png "UML class diagram of Command")
+![UML of ListCommand class implemented with the Command Pattern](command-java.png "UML class diagram of Command")
 
 ## Java example
 
