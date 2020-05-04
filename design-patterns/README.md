@@ -13,10 +13,10 @@
 | Facade | Structural |   |   |   |   |   |   |
 | Factory Method | Creational |   |   |[Globe Continents](FactoryMethod-Java/)| [Software Company](factory-method-js/)  |[Converter](factory-method-python/)   |[Gym Membership](design-patterns-Ruby/factory-ruby)|
 | Flyweight | Structural |   |   |   |   |[Bank Accounts](flyweight-python/)   |   |
-| Interpreter | Behavioral |   |   |   |   |   |   |
+| Interpreter | Behavioral |   |   |   |   | [String Operations](interpreter-python/)  |   |
 | Iterator | Behavioral |   |   |   |   |   |   |
 | Mediator | Behavioral |   |   |   |   |   |   |
-| Momento | Behavioral |   |   |   |   |   |   |
+| Momento | Behavioral |   |   |   |   | [Text Editor Simulator](memento-python/)  |   |
 | Observer | Behavioral |   |   |   |   | [Factorial & Fibonacci Calculator](observer-python/)  |   |
 | Prototype | Creational |   |   | [Grossery Shop](Prototype-Java/) |[Customer Management](Prototype-NodeJS/)   |[Temperature Measurement](prototype-python/)   |[Laptop](design-patterns-Ruby/prototype-ruby)|
 | Proxy | Structural |   |   |   |   |   |   |
