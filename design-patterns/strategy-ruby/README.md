@@ -2,5 +2,5 @@ Strategy pattern helps to define a family of algorithms, to encapsulate each one
 
 For example, In a game where we can have different characters and each character can have multiple weapons to attack, but at a time can use only one weapon. The method will have different implementation depends on which weapon is being used. <br>
 
-The implemented code for Strategy design pattern can be found [here](strategy.rb) <br>
+The implemented code for Strategy design pattern can be found [here](strategy.rb) <br><br>
 ![UML - Strategy - Design Pattern](strategy.png "UML - Strategy - Design Pattern")
