@@ -4,7 +4,7 @@
 |---|---|---|---|---|---|---|---|
 | Abstract Factory | Creational |   |   |[Publish Factory](abstract-factory-java/)   |  [Employee System](AbstractFactory-NodeJS/) |[Car Factory](abstract-factory-python/)   |[Game Fun](abstract-factory-ruby)|
 | Adapter | Structural |   |   |[Temperature Adapter](adapter-java/) |   |[smartphone battery](adapter-python/)|   |
-| Builder | Creational |   |   |[Phone Builder](builder-java/) |  [Vehicle Builder](Builder-NodeJS/) | [Plane Builder](builder-python/)  |[Construction Management](builder-Ruby)|
+| Builder | Creational |   |   |[Phone Builder](builder-java/) |  [Vehicle Builder](Builder-NodeJS/) | [Plane Builder](builder-python/)  |[Construction Management](builder-ruby)|
 | Bridge | Structural |   |   |[Game play](bridge-java/)   |   |[Ford Mustang Variants](bridge-python/)   |[Messaging System](bridge-ruby)   |
 | Chain of Responsibility | Behavioral |   |   |   |   |   |   |
 | Command | Behavioral |   |   |   |   |   |   |
