@@ -15,13 +15,13 @@
 | Flyweight | Structural |   |   | [Health Proffesionals](Flyweight-Java/)    |   |[Bank Accounts](flyweight-python/)   |[Banking Operation](flyweight-ruby/)|
 | Interpreter | Behavioral |   |   |   |   |   |   |
 | Iterator | Behavioral |   |   |   |   |   |   |
-| Mediator | Behavioral |   |   |   |   |   |   |
-| Momento | Behavioral |   |   |   |   |   |   |
+| Mediator | Behavioral |   |   |   |   |   |[Transciever](mediator-ruby/)   |
+| Memento | Behavioral |   |   |   |   |   |[Calculator](memento-ruby)   |
 | Observer | Behavioral |   |   |   |   |   |   |
 | Prototype | Creational |   |   | [Grossery Shop](Prototype-Java/) |[Customer Management](Prototype-NodeJS/)   |[Temperature Measurement](prototype-python/)   |[Laptop](design-patterns-Ruby/prototype-ruby)|
 | Proxy | Structural |   |   | [System Access](Proxy-Java/)  |   |[Area Calculator](proxy-python/)   |   |
 | Singleton | Creational | [Game Records](singleton-cpp/) |   | [Inventory](singleton-java/) |[Class Check](singleton-NodeJS/)   |[PhoneBook](singleton-python/)   |   |
 | State | Behavioral |   |   |   |   |   |   |
 | Strategy | Behavioral |   |   |   |   |   |   |
-| Template Method | Behavioral |   |   |   |   |   |   |
-| Visitor | Behavioral |   |   |   |   |   |   |
+| Template Method | Behavioral |   |   |   |   |   |[TravelAgency](templatemethod-ruby/)   |
+| Visitor | Behavioral |   |   |   |   |   |[Router Management](visitor-ruby)   |
