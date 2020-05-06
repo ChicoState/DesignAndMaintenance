@@ -1,5 +1,5 @@
 public class NormalUser extends User {
-    int userLevel;
+    private int userLevel;
 
     NormalUser(int lvl)
     {

@@ -1,5 +1,5 @@
 public class SuperUser extends User {
-    int userLevel;
+    private int userLevel;
 
     SuperUser(int lvl)
     {

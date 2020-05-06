@@ -10,6 +10,14 @@ Chain of responsibility pattern is used to achieve loose coupling in software de
 - Concrete handlers [NormalUser.java](example/NormalUser.java) and [SuperUser.java](example/SuperUser.java) : These are actual handlers of the request chained in some sequential order.
 - Client [Client.java](example/Client.java) : Originator of request and this will access the handler to handle it.
 
+# Java Example
+We have an abstract class `User.java` which is the handler, and has functions to validate the user's authorization level, based on which we can execute a DELETE command.
+Only a user with authorization level greater than 5 can execute this command.
+`SuperUser` and `NormalUser` are concrete implementation of `User` class.
+
+# Java UML
+![Chain of Responsibility in Java Example](example/uml2.png)
+
 # Uses of Chain of Responsibility
 - When you want to decouple a request’s sender and receiver
 - Multiple objects, determined at runtime, are candidates to handle a request
