@@ -6,7 +6,7 @@
 | Adapter | Structural |   |   |[Temperature Adapter](adapter-java/) |   |[smartphone battery](adapter-python/)|   |
 | Builder | Creational |   |   |[Phone Builder](builder-java/) |  [Vehicle Builder](Builder-NodeJS/) | [Plane Builder](builder-python/)  |[Construction Management](design-pattern-Ruby/builder-Ruby)|
 | Bridge | Structural |   |   |[Game play](bridge-java/)   |   |[Ford Mustang Variants](bridge-python/)   |[Messaging System](bridge-ruby)   |
-| Chain of Responsibility | Behavioral |   |   |   |   |   |   |
+| Chain of Responsibility | Behavioral |   |   | [User Auth](chain_of_responsibility-java/)  |   |   |   |
 | Command | Behavioral |   |   |   |   |   |   |
 | Composite | Structural |   |   | [Entertainment Structure](composite-java/)  |   |[Grocery Store Items](composite-python/)| [Gym Management](composite-ruby/)    |
 | Decorator | Structural |   |   | [Car Assemble](decorator-java/) |   |[Distance Units Conversion](decorator-python/)|[Car Types](decorator-ruby)   |
