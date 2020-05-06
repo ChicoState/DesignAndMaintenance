@@ -1,0 +1,17 @@
+# Chain of Responsibility Design Pattern
+Chain of Responsibility is a behavioral design pattern that lets you pass requests along a chain of handlers. Upon receiving a request, each handler decides either to process the request or to pass it to the next handler in the chain.
+Chain of responsibility pattern is used to achieve loose coupling in software design where a request from the client is passed to a chain of objects to process them. Later, the object in the chain will decide themselves who will be processing the request and whether the request is required to be sent to the next object in the chain or not.
+
+# Design Pattern UML
+![Chain of Responsibility](example/uml1.png)
+
+# Components of Chain of Responsibility
+- Handler [User.java](example/User.java): This can be an interface which will primarily recieve the request and dispatches the request to chain of handlers. It has reference of only first handler in the chain and does not know anything  about rest of the handlers.
+- Concrete handlers [NormalUser.java](example/NormalUser.java) and [SuperUser.java](example/SuperUser.java) : These are actual handlers of the request chained in some sequential order.
+- Client [Client.java](example/Client.java) : Originator of request and this will access the handler to handle it.
+
+# Uses of Chain of Responsibility
+- When you want to decouple a request’s sender and receiver
+- Multiple objects, determined at runtime, are candidates to handle a request
+- When you don’t want to specify handlers explicitly in your code
+- When you want to issue a request to one of several objects without specifying the receiver explicitly.
