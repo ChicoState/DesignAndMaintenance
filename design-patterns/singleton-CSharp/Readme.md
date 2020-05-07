@@ -9,7 +9,7 @@ To cache objects in-memory and reuse them throughout the application.
 + This code contains 1 file Singleton.cs . I used mono to implement C-sharp codes. First command I used to run is csc Singleton.cs . The second command I used to run is mono Singleton.exe. You can run the codes in Visual Studio.
 
 # UML Diagram
-+ ![UML of Calculas and related products implemented as an Singleton Factory](Singleton.png "UML class diagram of Abstract Factory")
+![UML of Calculas and related products implemented as an Singleton Factory](Singleton.png "UML class diagram of Abstract Factory")
 
 # Program Output
-+ ![Output of Calculas and related products implemented as an Singleton Factory](SingletonOutput.png "Output for Abstract Factory")
+![Output of Calculas and related products implemented as an Singleton Factory](SingletonOutput.png "Output for Abstract Factory")
