@@ -4,11 +4,12 @@ class MainApp
 {
   static void Main()
   {
+    Console.WriteLine("Menu Evaluation:");
     EvaluateAnswer substraction = new EvaluateAnswer(new Substraction());
-    Console.WriteLine("Substraction of numbers: " + substraction.Evaluate(5,3).ToString());
+    Console.WriteLine("Evaluating the Substraction of 2 numbers: " + substraction.Evaluate(5,3).ToString());
 
     EvaluateAnswer addition = new EvaluateAnswer(new Addition());
-    Console.WriteLine("Addition of numbers: " + addition.Evaluate(5,3).ToString());
+    Console.WriteLine("Evaluating the Addition of 2 numbers: " + addition.Evaluate(5,3).ToString());
 
     Console.Read();
   }
