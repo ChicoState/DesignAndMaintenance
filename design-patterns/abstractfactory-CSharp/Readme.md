@@ -5,6 +5,11 @@
 
 + I am using example of Sandwich and Pizza to explain Abstract Factory Pattern. The Sandwich and Pizza are made up of Veggies, Pineapple, Beaf, Pork etc, but they are still sandwiches and Pizza.So we can consider Sandwich as a family of related objects. Same Pizza as a family of related objects.Some people are Vegeterian they cannot eat Meat & Beaf, while few other people love to eat novegeterian food. So I made two generic abstract class for Sandwich and Pizza. We need an abstract class that will return Sandwich and Pizza which is ReciepeFactory class.To implement objects we have concrete objects(e.g:class Vegcheese:Sandwich{}). We also need a ConcreteFactory which implements the AbstractFactory and returns the Vegeterian meal recipes that are(VegChoiceFactory,NVegChoiceFactory).Same type of ConcreteFactory I implemented to return NonVegeterian meal.
 
+# How to run the program
 + This code contains 2 files Program.cs and RecipeFactory.cs . I used mono to implement C-sharp codes. First command I used to run is csc Program.cs RecipeFactory.cs. The second command I used to run is mono Program.exe. You can run the codes in Visual Studio.
 
+# UML Diagram
 + ![UML of Meal and related products implemented as an Abstract Factory](Abstract_Factory.png "UML class diagram of Abstract Factory")
+
+# Program Output 
++ ![Output of the Program implementing Abstract Factory Patter](AbstractFactoryOutput.png "UML class diagram of Abstract Factory")
