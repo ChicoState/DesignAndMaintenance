@@ -8,11 +8,11 @@
 | Bridge | Structural |   |   |[Game play](bridge-java/)   |   |[Ford Mustang Variants](bridge-python/)   |[Messaging System](bridge-ruby)   |
 | Chain of Responsibility | Behavioral |   |   |   |   |   |   |
 | Command | Behavioral |   |   | [ListCommand](command-java/) |   |   |   |
-| Composite | Structural |   |   | [Entertainment Structure](composite-java/)  |   |[Grocery Store Items](composite-python/)|   |
-| Decorator | Structural |   |   | [Car Assemble](decorator-java/) |   |[Distance Units Conversion](decorator-python/)|   |
+| Composite | Structural |   |   | [Entertainment Structure](composite-java/)  |   |[Grocery Store Items](composite-python/)| [Gym Management](composite-ruby/) |
+| Decorator | Structural |   |   | [Car Assemble](decorator-java/) |   |[Distance Units Conversion](decorator-python/)| [Car Types](decorator-ruby) |
 | Facade | Structural |   |   |[Ride Analyzer](facade-java/)   |   |   |   |
 | Factory Method | Creational |   |   |[Globe Continents](FactoryMethod-Java/)| [Software Company](factory-method-js/)  |[Converter](factory-method-python/)   |[Gym Membership](design-patterns-Ruby/factory-ruby)|
-| Flyweight | Structural |   |   |   |   |[Bank Accounts](flyweight-python/)   |   |
+| Flyweight | Structural |   |   | [Health Proffesionals](Flyweight-Java/) |   |[Bank Accounts](flyweight-python/)   | [Banking Operation](flyweight-ruby/) |
 | Interpreter | Behavioral |   |   | [Measurement](interpreter-java/) |   |   |   |
 | Iterator | Behavioral |   |   |   |   |   |   |
 | Mediator | Behavioral |   |   | [DonationCenter](mediator-java/) |   |   |   |
