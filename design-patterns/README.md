@@ -19,7 +19,7 @@
 | Momento | Behavioral |   |   |   |   |   |   |
 | Observer | Behavioral |   |   |   |   |   |   |
 | Prototype | Creational |   |[Geometry](prototype-CSharp)  | [Grossery Shop](Prototype-Java/) |[Customer Management](Prototype-NodeJS/)   |[Temperature Measurement](prototype-python/)   |[Laptop](design-patterns-Ruby/prototype-ruby)|
-| Proxy | Structural |[Figures](Proxy-csharp/)   |   | [System Access](Proxy-Java/)  |   |[Area Calculator](proxy-python/)   |   |
+| Proxy | Structural |   | [Figures](Proxy-csharp/)  | [System Access](Proxy-Java/)  |   |[Area Calculator](proxy-python/)   |   |
 | Singleton | Creational | [Game Records](singleton-cpp/) |[Calculas](singleton-CSharp)  | [Inventory](singleton-java/) |[Class Check](singleton-NodeJS/)   |[PhoneBook](singleton-python/)   |   |
 | State | Behavioral |   |[Football Players](State_patternCSharp)  |   |   |   |   |
 | Strategy | Behavioral |   |[Evaluation](Strategy_patternCSharp)   |   |   |   |   |
