@@ -9,10 +9,10 @@
 | Chain of Responsibility | Behavioral |   |   |   |   |   |   |
 | Command | Behavioral |   |   |   |   |   |   |
 | Composite | Structural |   |   | [Entertainment Structure](composite-java/)  |   |[Grocery Store Items](composite-python/)|   |
-| Decorator | Structural |   |   | [Car Assemble](decorator-java/) |   |[Distance Units Conversion](decorator-python/)|   |
+| Decorator | Structural |   |   | [Car Assemble](decorator-java/) |   |[Distance Units Conversion](decorator-python/)|  [Checking out Laptop](Decorator_ruby/) |
 | Facade | Structural |   |   |[Ride Analyzer](facade-java/)   |   |   |   |
 | Factory Method | Creational |   |   |[Globe Continents](FactoryMethod-Java/)| [Software Company](factory-method-js/)  |[Converter](factory-method-python/)   |[Gym Membership](design-patterns-Ruby/factory-ruby)|
-| Flyweight | Structural |   |   |   |   |[Bank Accounts](flyweight-python/)   |   |
+| Flyweight | Structural |   |   |   |   |[Bank Accounts](flyweight-python/)   |  [Choose Game](Proxy-ruby/) |
 | Interpreter | Behavioral |   |   |   |   |   |   |
 | Iterator | Behavioral |   |   |   |   |   |   |
 | Mediator | Behavioral |   |   |   |   |   |   |
