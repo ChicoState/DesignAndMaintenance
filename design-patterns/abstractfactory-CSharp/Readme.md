@@ -12,4 +12,4 @@
 ![UML of Meal and related products implemented as an Abstract Factory](Abstract_Factory.png "UML class diagram of Abstract Factory")
 
 # Program Output
-![Output of the Program implementing Abstract Factory Patter](AbstractFactoryOutput.png "UML class diagram of Abstract Factory")
+![Output of the Program implementing Abstract Factory Patter](AbstractFactoryOutput.png "Output for Abstract Factory")
