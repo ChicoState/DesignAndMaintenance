@@ -8,7 +8,7 @@
 + This code contains 1 files Program.cs . I used mono to implement C-sharp codes. First command I used to run is csc Program.cs . The second command I used to run is mono Program.exe. You can run the codes in Visual Studio.
 
 # UML Diagram
-+ ![UML of Figure and related products implemented as an State Design Pattern](State_pattern.png "UML class diagram of State Design pattern")
+![UML of Figure and related products implemented as an State Design Pattern](State_pattern.png "UML class diagram of State Design pattern")
 
 # Program Output
-+ ![Output for Figure and related products implemented as an State Design Pattern](StateOutput.png "Output for State Design pattern")
+![Output for Figure and related products implemented as an State Design Pattern](StateOutput.png "Output for State Design pattern")
