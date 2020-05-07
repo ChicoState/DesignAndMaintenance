@@ -4,7 +4,7 @@
 |---|---|---|---|---|---|---|---|
 | Abstract Factory | Creational |   |[Meal Supply](abstractfactory-CSharp)   |[Publish Factory](abstract-factory-java/)   |  [Employee System](AbstractFactory-NodeJS/) |[Car Factory](abstract-factory-python/)   |   |
 | Adapter | Structural |   |   |[Temperature Adapter](adapter-java/) |   |[smartphone battery](adapter-python/)|   |
-| Builder | Creational |   |[Beverage Creation](builderpattern-csharp)   |[Phone Builder](builder-java/) |  [Vehicle Builder](Builder-NodeJS/) | [Plane Builder](builder-python/)  |[Construction Management](design-pattern-Ruby/builder-Ruby)|
+| Builder | Creational |   |   |[Phone Builder](builder-java/) |  [Vehicle Builder](Builder-NodeJS/) | [Plane Builder](builder-python/)  |[Construction Management](design-pattern-Ruby/builder-Ruby)|
 | Bridge | Structural |   |   |[Game play](bridge-java/)   |   |[Ford Mustang Variants](bridge-python/)   |[Messaging System](bridge-ruby)   |
 | Chain of Responsibility | Behavioral |   |   |   |   |   |   |
 | Command | Behavioral |   |   |   |   |   |   |
