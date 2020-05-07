@@ -7,15 +7,6 @@
 | Builder | Creational |   |   |[Phone Builder](builder-java/) |  [Vehicle Builder](Builder-NodeJS/) | [Plane Builder](builder-python/)  |[Construction Management](design-pattern-Ruby/builder-Ruby)|
 | Bridge | Structural |   |   |[Game play](bridge-java/)   |   |[Ford Mustang Variants](bridge-python/)   |[Messaging System](bridge-ruby)   |
 | Chain of Responsibility | Behavioral |   |   |   |   |   |   |
-<<<<<<< HEAD
-| Command | Behavioral |   |   |   |   |   |   |
-| Composite | Structural |   |   | [Entertainment Structure](composite-java/)  |   |[Grocery Store Items](composite-python/)| [Gym Management](composite-ruby/)    |
-| Decorator | Structural |   |   | [Car Assemble](decorator-java/) |   |[Distance Units Conversion](decorator-python/)|[Car Types](decorator-ruby)   |
-| Facade | Structural |   |   |[Ride Analyzer](facade-java/)   |   |   |   |
-| Factory Method | Creational |   |   |[Globe Continents](FactoryMethod-Java/)| [Software Company](factory-method-js/)  |[Converter](factory-method-python/)   |[Gym Membership](design-patterns-Ruby/factory-ruby)|
-| Flyweight | Structural |   |   | [Health Proffesionals](Flyweight-Java/)    |   |[Bank Accounts](flyweight-python/)   |[Banking Operation](flyweight-ruby/)|
-| Interpreter | Behavioral |   |   |   |   |   |   |
-=======
 | Command | Behavioral |   |   | [ListCommand](command-java/) |   |   |   |
 | Composite | Structural |   |   | [Entertainment Structure](composite-java/)  |   |[Grocery Store Items](composite-python/)|   |
 | Decorator | Structural |   |   | [Car Assemble](decorator-java/) |   |[Distance Units Conversion](decorator-python/)|   |
@@ -23,7 +14,6 @@
 | Factory Method | Creational |   |   |[Globe Continents](FactoryMethod-Java/)| [Software Company](factory-method-js/)  |[Converter](factory-method-python/)   |[Gym Membership](design-patterns-Ruby/factory-ruby)|
 | Flyweight | Structural |   |   |   |   |[Bank Accounts](flyweight-python/)   |   |
 | Interpreter | Behavioral |   |   | [Measurement](interpreter-java/) |   |   |   |
->>>>>>> f5a0431... adds behavioral design pattern links to readme
 | Iterator | Behavioral |   |   |   |   |   |   |
 | Mediator | Behavioral |   |   | [DonationCenter](mediator-java/) |   |   |   |
 | Momento | Behavioral |   |   |   |   |   |   |
