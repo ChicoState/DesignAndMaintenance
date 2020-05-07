@@ -11,7 +11,7 @@
 + This code contains 1 files Program.cs . I used mono to implement C-sharp codes. First command I used to run is csc Program.cs. The second command I used to run is mono Program.exe. You can run the codes in Visual Studio.
 
 # UML Diagram
-+ ![UML of Shapes implemented as an Flyweight Factory](Flyweight-pattern.png "UML class diagram of Flyweight pattern")
+![UML of Shapes implemented as an Flyweight Factory](Flyweight-pattern.png "UML class diagram of Flyweight pattern")
 
 # Program Output
-+ ![Output of Shapes implemented as an Flyweight Factory](FlyweightOutput.png "Output of Flyweight pattern")
+![Output of Shapes implemented as an Flyweight Factory](FlyweightOutput.png "Output of Flyweight pattern")
