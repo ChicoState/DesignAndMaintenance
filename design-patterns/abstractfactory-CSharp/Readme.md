@@ -9,7 +9,7 @@
 + This code contains 2 files Program.cs and RecipeFactory.cs . I used mono to implement C-sharp codes. First command I used to run is csc Program.cs RecipeFactory.cs. The second command I used to run is mono Program.exe. You can run the codes in Visual Studio.
 
 # UML Diagram
-+ ![UML of Meal and related products implemented as an Abstract Factory](Abstract_Factory.png "UML class diagram of Abstract Factory")
+![UML of Meal and related products implemented as an Abstract Factory](Abstract_Factory.png "UML class diagram of Abstract Factory")
 
-# Program Output 
-+ ![Output of the Program implementing Abstract Factory Patter](AbstractFactoryOutput.png "UML class diagram of Abstract Factory")
+# Program Output
+![Output of the Program implementing Abstract Factory Patter](AbstractFactoryOutput.png "UML class diagram of Abstract Factory")
