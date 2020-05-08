@@ -10,8 +10,8 @@ The state pattern is also known as objects for states. So, we can assume that mo
 ![UML of State Design pattern](State.png "UML class diagram of State Design Pattern")
 
 ## Java example
-In this example I have created a State class which is [MobileStateAlert.java](MobileStateAlert.java) which has a method `alert()` implemented by all the concrete classes listed below. 
-I have defined an interface (state) for performing state-specific behavior, and define classes that implement the interface for each state. Those are [Sleep.java](Sleep.java), [Vibration.java](Vibration.java), [SwitchedOff.java](SwitchedOff.java), [Flight.java](flight.java), [Silent.java](Silent.java)
+In this example I have created a State class which is [MobileAlertState.java](MobileAlertState.java) which has a method `alert()` implemented by all the concrete classes listed below. 
+I have defined an interface (state) for performing state-specific behavior, and define classes that implement the interface for each state. Those are [Sleep.java](Sleep.java), [Vibration.java](Vibration.java), [SwitchedOff.java](SwitchedOff.java), [Flight.java](Flight.java), [Silent.java](Silent.java)
 The MobileStateAlert pattern does not specify where the state transitions will be defined. The choices are two: the “context” object, or each individual State derived class.
 
 ### Running the example
