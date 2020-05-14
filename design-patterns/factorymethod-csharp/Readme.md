@@ -21,4 +21,4 @@ ObjectFactory
   - classes to be instantiated are RegularCourse and PreRequisites classes.
 
 
-![UML of ObjectFactory and related products implemented as an Factory Method ](Factory Pattern UML Class.png "UML class diagram of Factory Method Pattern")
+![UML of ObjectFactory and related products implemented as an Factory Method ](Factory_Pattern.png "UML class diagram of Factory Method Pattern")
