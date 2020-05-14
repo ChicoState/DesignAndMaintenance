@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Flyweight
+namespace FlyweightPatternDemo
 {
     //'Flyweight' inteface
     public interface IGeometry
@@ -22,7 +22,7 @@ namespace Flyweight
         // color of geometry will dependent on size - extrinsic state
         public void GetColor(int length)
         {
-            if(length < 4)
+            if(length < 5)
             {
                 Console.WriteLine("Circle is filled with BLUE color");
             }
@@ -43,7 +43,7 @@ namespace Flyweight
         // color of geometry will dependent on size - extrinsic state
         public void GetColor(int length)
         {
-            if (length < 4)
+            if (length < 5)
             {
                 Console.WriteLine("Square is filled with BLACK color");
             }
@@ -73,7 +73,7 @@ namespace Flyweight
                 if (name == "Circle")
                 {
                     geometry = new Circle();
-                    geometries.Add("Cirlce", geometry);
+                    geometries.Add("Circle", geometry);
                 }
                 else if (name == "Square")
                 {
