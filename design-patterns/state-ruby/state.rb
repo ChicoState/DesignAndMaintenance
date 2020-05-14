@@ -1,11 +1,11 @@
-class Context
+class TrafficLightSystem
     def initialize(obj)
         @state = obj
     end
 
     def SetState(value)
         @state = value
-        puts "Inside Context:State .. State Changed"
+        puts "Inside TrafficLightSystem:State .. State Changed"
     end
 
     def GetState
@@ -23,22 +23,22 @@ class State
     end
 end
    
-class ConcreteStateA < State
+class REDLight < State
     def Handle(context)
-        puts "ConcreteStateA:Handle()"
-        context.SetState(ConcreteStateB.new)
+        puts "REDLight:Handle()"
+        context.SetState(GREENLight.new)
     end
 end
 
-class ConcreteStateB < State
+class GREENLight < State
     def Handle(context)
-        puts "ConcteteStateB:Handle()"
-        context.SetState(ConcreteStateA.new)
+        puts "GREENLight:Handle()"
+        context.SetState(REDLight.new)
     end
 end
 
-state = ConcreteStateA.new
-context = Context.new(state)
+signal = REDLight.new
+context = TrafficLightSystem.new(signal)
 
 context.Request
 context.Request

@@ -1,4 +1,4 @@
-class Context
+class Game
     def initialize
         @strategy = nil
     end
@@ -12,44 +12,44 @@ class Context
     end
 
     def ContextInterface
-        @strategy.AlgorithmInterface
+        @strategy.WeaponInterface
     end
 end
 
-class Strategy
-    def AlgorithmInterface
-        raise NotImplementedError, 'AlgorithmInterface() must be defined in subclass'
+class GameCharacter
+    def WeaponInterface
+        raise NotImplementedError, 'WeaponInterface() must be defined in subclass'
     end
 end
 
-class ConcreteStrategyA < Strategy
-    def AlgorithmInterface
-        puts 'Inside ConcreteStrategyA:AlgorithmInterface()'
+class WeaponOne < GameCharacter
+    def WeaponInterface
+        puts 'Inside WeaponOne:WeaponInterface()'
     end
 end
 
-class ConcreteStrategyB < Strategy
-    def AlgorithmInterface
-        puts 'Inside ConcreteStrategyB:AlgorithmInterface()'
+class WeaponTwo < GameCharacter
+    def WeaponInterface
+        puts 'Inside WeaponTwo:WeaponInterface()'
     end
 end
 
-class ConcreteStrategyC < Strategy
-    def AlgorithmInterface
-        puts "Inside ConcreteStrategyC:AlgorithmInterface()"
+class WeaponThree < GameCharacter
+    def WeaponInterface
+        puts "Inside WeaponThree:WeaponInterface()"
     end
 end
 
-context = Context.new
+game = Game.new
 
-conStratA = ConcreteStrategyA.new
-context.SetStrategy(conStratA)
-context.ContextInterface
+CharacterA = WeaponOne.new
+game.SetStrategy(CharacterA)
+game.ContextInterface
 
-conStratB = ConcreteStrategyB.new
-context.SetStrategy(conStratB)
-context.ContextInterface
+CharacterB = WeaponTwo.new
+game.SetStrategy(CharacterB)
+game.ContextInterface
 
-conStratC = ConcreteStrategyC.new
-context.SetStrategy(conStratC)
-context.ContextInterface
+CharacterC = WeaponThree.new
+game.SetStrategy(CharacterC)
+game.ContextInterface
