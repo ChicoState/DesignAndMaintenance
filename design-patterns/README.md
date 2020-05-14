@@ -9,6 +9,11 @@
 | Chain of Responsibility | Behavioral |   |   | [User Auth](chain_of_responsibility-java/)  |   | [Password Validator](chain-of-responsibility-python/)  |   |
 | Command | Behavioral |   |   |[ListCommand](command-java/)|   |   |   |
 | Composite | Structural |   |   | [Entertainment Structure](composite-java/)  |   |[Grocery Store Items](composite-python/)| [Gym Management](composite-ruby/)|
+| Decorator | Structural |   |   | [Car Assemble](decorator-java/) |   |[Distance Units Conversion](decorator-python/)|  [Checking out Laptop](Decorator_ruby/) |
+| Facade | Structural |   |   |[Ride Analyzer](facade-java/)   |   |   |   |
+| Factory Method | Creational |   |   |[Globe Continents](FactoryMethod-Java/)| [Software Company](factory-method-js/)  |[Converter](factory-method-python/)   |[Gym Membership](design-patterns-Ruby/factory-ruby)|
+| Flyweight | Structural |   |   |   |   |[Bank Accounts](flyweight-python/)   |  [Choose Game](Proxy-ruby/) |
+| Composite | Structural |   |   | [Entertainment Structure](composite-java/)  |   |[Grocery Store Items](composite-python/)| [Gym Management](composite-ruby/)    |
 | Decorator | Structural |   |   | [Car Assemble](decorator-java/) |   |[Distance Units Conversion](decorator-python/)|[Car Types](decorator-ruby)   |
 | Facade | Structural |   |[Food Supply](Facade-csharp/)|[Ride Analyzer](facade-java/)   |   |   |   |
 | Factory Method | Creational |   |   |[Globe Continents](FactoryMethod-Java/)| [Software Company](factory-method-js/)  |[Converter](factory-method-python/)   |[Gym Membership](factory-ruby)|
