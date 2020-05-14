@@ -1,22 +1,22 @@
-class Subject
+class Grade
     def Attach(obj)
-        @observers << obj
+        @students << obj
     end
 
     def Detach(obj)
     end
 
     def Notify
-        for observer in @observers
-            observer.Update()
+        for student in @students
+            student.Update()
         end
     end
 end
 
-class ConcreteSubject < Subject
+class GradeForAll < Grade
 
     def initialize
-        @observers = Array.new
+        @students = Array.new
         @state=nil
     end
 
@@ -30,13 +30,13 @@ class ConcreteSubject < Subject
     end
 end
 
-class Observer
+class Student
     def Update
         raise NotImplementedError, 'Update() must be defined in subclass'
     end
 end
 
-class ConcreteObserverA < Observer
+class StudentA < Student
     def initialize(obj)
         @conSub = obj
         @state = nil
@@ -44,13 +44,13 @@ class ConcreteObserverA < Observer
     end
     
     def Update
-        puts "Inside ConcreteObserverA::Update()"
+        puts "Inside StudentA::Update()"
         @state = @conSub.GetState
         puts "State = #{@state}"
     end
 end
 
-class ConcreteObserverB < Observer
+class StudentB < Student
     def initialize(obj)
         @conSub = obj
         @state = nil
@@ -58,13 +58,13 @@ class ConcreteObserverB < Observer
     end
 
     def Update
-        puts "Inside ConcreteObserverB::Update()"
+        puts "Inside StudentB::Update()"
         @state = @conSub.GetState
         puts "State = #{@state}"
     end
 end
 
-conSubObj = ConcreteSubject.new
-ObsObj1 = ConcreteObserverA.new(conSubObj)
-ObsObj2 = ConcreteObserverB.new(conSubObj)
+conSubObj = GradeForAll.new
+ObsObj1 = StudentA.new(conSubObj)
+ObsObj2 = StudentB.new(conSubObj)
 conSubObj.SetState(1)

@@ -23,4 +23,4 @@ Product  (Beverage)
   - represents the complex object under construction. ConcreteBuilder builds the product's internal representation and defines the process by which it's assembled
   - includes classes that define the constituent parts, including interfaces for assembling the parts into the final result
 
-![UML of Beverage and related products implemented as an Builder Pattern ](Builder Pattern.png "UML class diagram of Builder Pattern")
+![UML of Beverage and related products implemented as an Builder Pattern ](Builder_pattern.png "UML class diagram of Builder Pattern")
