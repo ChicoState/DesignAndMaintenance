@@ -15,13 +15,13 @@
 | Flyweight | Structural |   |   | [Health Proffesionals](Flyweight-Java/)    |   |[Bank Accounts](flyweight-python/)   |[Banking Operation](flyweight-ruby/)|
 | Interpreter | Behavioral |   |   |   |   | [String Operations](interpreter-python/)  |   |
 | Iterator | Behavioral |   |   |[Food Storage](iterator-java/)  |   |   |   |
-| Mediator | Behavioral |   |   |   |   |[Phonebook](mediator-python/)|   |
-| Momento | Behavioral |   |   |[WebBrowser](momento-java/)   |    [Text Editor Simulator](memento-python/)  |   |
+| Mediator | Behavioral |   |   |   |   |[Phonebook](mediator-python/)|[Transciever](mediator-ruby/)   |
+| Momento | Behavioral |   |   |[WebBrowser](momento-java/)   |    [Text Editor Simulator](memento-python/)  |[Calculator](memento-ruby)   |
 | Observer | Behavioral |   |   |[Instagram Observer](Observer-Java/)   |   | [Factorial & Fibonacci Calculator](observer-python/)  |[Grade for Students](observer-ruby)|
 | Prototype | Creational |   |   | [Grossery Shop](Prototype-Java/) |[Customer Management](Prototype-NodeJS/)   |[Temperature Measurement](prototype-python/)   |[Laptop](prototype-ruby)||
 | Proxy | Structural |   |   | [System Access](Proxy-Java/)  |   |[Area Calculator](proxy-python/)   |   |
 | Singleton | Creational | [Game Records](singleton-cpp/) |   | [Inventory](singleton-java/) |[Class Check](singleton-NodeJS/)   |[PhoneBook](singleton-python/)   |   |
 | State | Behavioral |   |   |[Mobile State](State-Java/)   |   |   |[Traffic Light System](state-ruby)|
 | Strategy | Behavioral |   |   |   |   | [HCF&LCM Calculator](stratergy-python/)  |[Game & Weapons](strategy-ruby)|
-| Template Method | Behavioral |   |   |[ERP System](template_method-java)  |   |   |   |
-| Visitor | Behavioral |   |   |[Hospital Visitor](Visitor-Java/)   |   |[Area Calculator](visitor-python/)|   |
+| Template Method | Behavioral |   |   |[ERP System](template_method-java)  |   |   |[TravelAgency](templatemethod-ruby/)   |
+| Visitor | Behavioral |   |   |[Hospital Visitor](Visitor-Java/)   |   |[Area Calculator](visitor-python/)|[Router Management](visitor-ruby)   |
