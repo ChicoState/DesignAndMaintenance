@@ -5,6 +5,8 @@
 | Abstract Factory | Creational |   |   |[Publish Factory](abstract-factory-java/)   |  [Employee System](AbstractFactory-NodeJS/) |[Car Factory](abstract-factory-python/)   |   |
 | Adapter | Structural |   |   |[Temperature Adapter](adapter-java/) |   |[smartphone battery](adapter-python/)|   |
 | Builder | Creational |   |   |[Phone Builder](builder-java/) |  [Vehicle Builder](Builder-NodeJS/) | [Plane Builder](builder-python/)  |[Construction Management](design-pattern-Ruby/builder-Ruby)|
+| Bridge | Structural |   |   |[Game play](bridge-java/)   |   |[Ford Mustang Variants](bridge-python/)   |   |
+| Chain of Responsibility | Behavioral |   |   |   |   | [Password Validator](chain-of-responsibility-python/)  |   |
 | Bridge | Structural |   |   |[Game play](bridge-java/)   |   |[Ford Mustang Variants](bridge-python/)   |[Messaging System](bridge-ruby)   |
 | Chain of Responsibility | Behavioral |   |   | [User Auth](chain_of_responsibility-java/)  |   |   |   |
 | Command | Behavioral |   |   |   |   |   |   |
@@ -12,12 +14,14 @@
 | Decorator | Structural |   |   | [Car Assemble](decorator-java/) |   |[Distance Units Conversion](decorator-python/)|[Car Types](decorator-ruby)   |
 | Facade | Structural |   |   |[Ride Analyzer](facade-java/)   |   |   |   |
 | Factory Method | Creational |   |   |[Globe Continents](FactoryMethod-Java/)| [Software Company](factory-method-js/)  |[Converter](factory-method-python/)   |[Gym Membership](design-patterns-Ruby/factory-ruby)|
+| Flyweight | Structural |   |   |   |   |[Bank Accounts](flyweight-python/)   |   |
+| Interpreter | Behavioral |   |   |   |   | [String Operations](interpreter-python/)  |   |
 | Flyweight | Structural |   |   | [Health Proffesionals](Flyweight-Java/)    |   |[Bank Accounts](flyweight-python/)   |[Banking Operation](flyweight-ruby/)|
 | Interpreter | Behavioral |   |   |   |   |   |   |
 | Iterator | Behavioral |   |   |[Food Storage](iterator-java/)  |   |   |   |
 | Mediator | Behavioral |   |   |   |   |   |   |
-| Momento | Behavioral |   |   |[WebBrowser](momento-java/)   |   |   |   |
-| Observer | Behavioral |   |   |[Instagram Observer](Observer-Java/)   |   |   |   |
+| Momento | Behavioral |   |   |[WebBrowser](momento-java/)   |    [Text Editor Simulator](memento-python/)  |   |
+| Observer | Behavioral |   |   |[Instagram Observer](Observer-Java/)   |   | [Factorial & Fibonacci Calculator](observer-python/)  |   |
 | Prototype | Creational |   |   | [Grocery Shop](Prototype-Java/) |[Customer Management](Prototype-NodeJS/)   |[Temperature Measurement](prototype-python/)   |[Laptop](design-patterns-Ruby/prototype-ruby)|
 | Proxy | Structural |   |   | [System Access](Proxy-Java/)  |   |[Area Calculator](proxy-python/)   |   |
 | Singleton | Creational | [Game Records](singleton-cpp/) |   | [Inventory](singleton-java/) |[Class Check](singleton-NodeJS/)   |[PhoneBook](singleton-python/)   |   |
