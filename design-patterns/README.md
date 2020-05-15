@@ -7,21 +7,21 @@
 | Builder | Creational |   |   |[Phone Builder](builder-java/) |  [Vehicle Builder](Builder-NodeJS/) | [Plane Builder](builder-python/)  |[Construction Management](design-pattern-Ruby/builder-Ruby)|
 | Bridge | Structural |   |   |[Game play](bridge-java/)   |   |[Ford Mustang Variants](bridge-python/)   |   |
 | Chain of Responsibility | Behavioral |   |   |   |   |   |   |
-| Command | Behavioral |   |   |   |   |   |   |
+| Command | Behavioral |   |   |   |   | [Digital Clipboard commands](Command-Python/)  |   |
 | Composite | Structural |   |   | [Entertainment Structure](composite-java/)  |   |[Grocery Store Items](composite-python/)|   |
 | Decorator | Structural |   |   | [Car Assemble](decorator-java/) |   |[Distance Units Conversion](decorator-python/)|   |
 | Facade | Structural |   |   |   |   |   |   |
 | Factory Method | Creational |   |   |[Globe Continents](FactoryMethod-Java/)| [Software Company](factory-method-js/)  |[Converter](factory-method-python/)   |[Gym Membership](design-patterns-Ruby/factory-ruby)|
 | Flyweight | Structural |   |   |   |   |[Bank Accounts](flyweight-python/)   |   |
 | Interpreter | Behavioral |   |   |   |   |   |   |
-| Iterator | Behavioral |   |   |   |   |   |   |
+| Iterator | Behavioral |   |   |   |   | [Numbers Types Iterator](Iterator-Python/)   |   |
 | Mediator | Behavioral |   |   |   |   |   |   |
 | Momento | Behavioral |   |   |   |   |   |   |
 | Observer | Behavioral |   |   |   |   |   |   |
 | Prototype | Creational |   |   | [Grossery Shop](Prototype-Java/) |[Customer Management](Prototype-NodeJS/)   |[Temperature Measurement](prototype-python/)   |[Laptop](design-patterns-Ruby/prototype-ruby)|
 | Proxy | Structural |   |   |   |   |[Area Calculator](proxy-python/)   |   |
 | Singleton | Creational | [Game Records](singleton-cpp/) |   | [Inventory](singleton-java/) |[Class Check](singleton-NodeJS/)   |[PhoneBook](singleton-python/)   |   |
-| State | Behavioral |   |   |   |   |   |   |
+| State | Behavioral |   |   |   |   | [Virtual Machine states](State-Python/) |   |
 | Strategy | Behavioral |   |   |   |   |   |   |
-| Template Method | Behavioral |   |   |   |   |   |   |
+| Template Method | Behavioral |   |   |   |   | [Store Data on Cloud](Template-Python/)   |   |
 | Visitor | Behavioral |   |   |   |   |   |   |
