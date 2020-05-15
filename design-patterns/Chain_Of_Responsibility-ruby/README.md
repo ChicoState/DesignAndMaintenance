@@ -7,7 +7,7 @@ In object-oriented design, the chain-of-responsibility pattern is a design patte
 
 To execute the program from command line, please use the following command:
 ```{bash}
-~ ruby game_chain_of_responsibility.rb 
+~ ruby game.rb 
 
 Banned for 10 years!! Stop using Gaame_Cheats
 ```
