@@ -6,8 +6,8 @@
 | Adapter | Structural |   |   |[Temperature Adapter](adapter-java/) |   |[smartphone battery](adapter-python/)|   |
 | Builder | Creational |   |   |[Phone Builder](builder-java/) |  [Vehicle Builder](Builder-NodeJS/) | [Plane Builder](builder-python/)  |[Construction Management](builder-Ruby)|
 | Bridge | Structural |   |   |[Game play](bridge-java/)   |   |[Ford Mustang Variants](bridge-python/)   |[Messaging System](bridge-ruby)   |
-| Chain of Responsibility | Behavioral |   |   | [User Auth](chain_of_responsibility-java/)  |   | [Password Validator](chain-of-responsibility-python/)  |   |
-| Command | Behavioral |   |   |[ListCommand](command-java/)|   |   |   |
+| Chain of Responsibility | Behavioral |   |   | [User Auth](chain_of_responsibility-java/)  |   | [Password Validator](chain-of-responsibility-python/)  |   |[Game Setup](Chain_Of_Responsibility-ruby/)
+| Command | Behavioral |   |   |[ListCommand](command-java/)|   |   |   |[Game Download](Command-ruby/) 
 | Composite | Structural |   |   | [Entertainment Structure](composite-java/)  |   |[Grocery Store Items](composite-python/)| [Gym Management](composite-ruby/)|
 | Decorator | Structural |   |   | [Car Assemble](decorator-java/) |   |[Distance Units Conversion](decorator-python/)|  [Checking out Laptop](Decorator_ruby/) |
 | Facade | Structural |   |   |[Ride Analyzer](facade-java/)   |   |   |   |
@@ -18,8 +18,8 @@
 | Facade | Structural |   |[Food Supply](Facade-csharp/)|[Ride Analyzer](facade-java/)   |   |   |   |
 | Factory Method | Creational |   |   |[Globe Continents](FactoryMethod-Java/)| [Software Company](factory-method-js/)  |[Converter](factory-method-python/)   |[Gym Membership](factory-ruby)|
 | Flyweight | Structural |   |[Geometry Evaluation](Flyweight-csharp/)| [Health Proffesionals](Flyweight-Java/)    |   |[Bank Accounts](flyweight-python/)   |[Banking Operation](flyweight-ruby/)|
-| Interpreter | Behavioral |   |   |   |   | [String Operations](interpreter-python/)  |   |
-| Iterator | Behavioral |   |   |[Food Storage](iterator-java/)  |   |   |   |
+| Interpreter | Behavioral |   |   |   |   | [String Operations](interpreter-python/)  |   |[Basic Calculator](interpreter-ruby/)
+| Iterator | Behavioral |   |   |[Food Storage](iterator-java/)  |   |   |   |[Game Rankings](iterator-ruby/)
 | Mediator | Behavioral |   |   |   |   |[Phonebook](mediator-python/)|[Transciever](mediator-ruby/)   |
 | Momento | Behavioral |   |   |[WebBrowser](momento-java/)   |    [Text Editor Simulator](memento-python/)  |[Calculator](memento-ruby)   |
 | Observer | Behavioral |   |   |[Instagram Observer](Observer-Java/)   |   | [Factorial & Fibonacci Calculator](observer-python/)  |[Grade for Students](observer-ruby)|
